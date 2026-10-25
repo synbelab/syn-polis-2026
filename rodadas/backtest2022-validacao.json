@@ -1,0 +1,20 @@
+{
+ "config": "backtest2022-calibrado",
+ "resultados": {
+  "seeds": "100-149 (virgens, fora da calibracao)",
+  "T1_lula_pct": "50.66 (dp 0.49, min 49.52, max 51.44)",
+  "gab_T1_lula": 48.43,
+  "T1_bolsonaro_pct": "39.05 (dp 0.50, min 38.02, max 40.15)",
+  "gab_T1_bolsonaro": 43.2,
+  "T2_lula_pct": "52.83 (dp 0.83, min 51.24, max 55.00)",
+  "gab_T2_lula": 50.9,
+  "MAE_T1_nacional_pp": "2.56 (dp 0.24, min 1.94, max 2.96)",
+  "erro_T2_nacional_pp": "1.93 (dp 0.83, min 0.34, max 4.10)",
+  "MAE_T2_regional_pp": "4.02 (dp 0.63, min 2.85, max 5.69)",
+  "subestimacao_bolsonaro_declarado_pp": "4.67 (dp 0.52, min 3.84, max 6.05) | real 2022: 5-7pp",
+  "acerto_vencedor_T1": "50/50",
+  "acerto_par_do_2turno": "50/50",
+  "acerto_vencedor_T2": "50/50",
+  "acerto_vencedor_regional_T2_medio": "3.7/5"
+ }
+}

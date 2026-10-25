@@ -1,0 +1,1699 @@
+{
+ "meta": {
+  "eleicao": "Eleição Ordinária Federal 2026 - Presidente - 1º turno",
+  "data": "2026-10-04",
+  "fonte_primaria": "TSE - resultados.tse.jus.br (JSON oficial, eleição 6257, cargo 1)",
+  "fonte_url_br": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/br/br-c0001-e006257-u.json",
+  "fonte_url_uf_padrao": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/{uf}/{uf}-c0001-e006257-u.json",
+  "app_tse": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6257/uf/br/cargo/1/vis/nominal/resultados",
+  "totalizacao_tse": "05/10/2026 12:51:47 (secoes totalizadas 100,00%)",
+  "coletado_em": "2026-10-12",
+  "notas": [
+   "pct_validos calculado = votos/validos*100, 2 casas; confere com pvap do TSE.",
+   "abstencao_pct = abstencao/eleitorado (como o TSE). Diferenca de 423 entre eleitorado e comparecimento+abstencao = eleitores de 41 secoes nao instaladas (TSE campo esni).",
+   "nulos = total de nulos (inclui 5.246 nulos tecnicos no nacional).",
+   "nanicos = Samara (UP), Hertz Dias (PSTU), Clariana Barao (DC), Edmilson Costa (PCB), Wilson Grassi (Democrata), Rui Costa Pimenta (PCO).",
+   "Regioes = soma das UFs (agregacao propria, nao publicada pelo TSE). Exterior separado."
+  ],
+  "fontes_secundarias": [
+   "https://en.wikipedia.org/wiki/2026_Brazilian_general_election (tabela por UF, confere 100% com TSE)",
+   "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/"
+  ]
+ },
+ "nacional": {
+  "uf": "BR",
+  "nome": "Brasil",
+  "eleitorado": 158745502,
+  "comparecimento": 125275835,
+  "abstencao": 33469244,
+  "abstencao_pct": 21.08,
+  "validos": 119300788,
+  "brancos": 2300798,
+  "nulos": 3674249,
+  "brancos_pct_comparecimento": 1.84,
+  "nulos_pct_comparecimento": 2.93,
+  "votos": {
+   "flavio": 56104503,
+   "caiado": 2605148,
+   "lula": 53879538,
+   "cury": 3448569,
+   "zema": 326488,
+   "renan": 2675887,
+   "nanicos": 260655
+  },
+  "pct_validos": {
+   "flavio": 47.03,
+   "caiado": 2.18,
+   "lula": 45.16,
+   "cury": 2.89,
+   "zema": 0.27,
+   "renan": 2.24,
+   "nanicos": 0.22,
+   "outros_nao_flavio_lula": 7.81
+  },
+  "margem_flavio_menos_lula_pp": 1.87,
+  "candidatos_completo": [
+   {
+    "numero": "22",
+    "nome": "FLAVIO BOLSONARO",
+    "partido": "PL",
+    "votos": 56104503,
+    "pct_validos": 47.03
+   },
+   {
+    "numero": "13",
+    "nome": "LULA",
+    "partido": "PT",
+    "votos": 53879538,
+    "pct_validos": 45.16
+   },
+   {
+    "numero": "70",
+    "nome": "ESCRITOR AUGUSTO CURY",
+    "partido": "AVANTE",
+    "votos": 3448569,
+    "pct_validos": 2.89
+   },
+   {
+    "numero": "14",
+    "nome": "RENAN SANTOS",
+    "partido": "MISSÃO",
+    "votos": 2675887,
+    "pct_validos": 2.24
+   },
+   {
+    "numero": "55",
+    "nome": "RONALDO CAIADO",
+    "partido": "PSD",
+    "votos": 2605148,
+    "pct_validos": 2.18
+   },
+   {
+    "numero": "30",
+    "nome": "ZEMA",
+    "partido": "NOVO",
+    "votos": 326488,
+    "pct_validos": 0.27
+   },
+   {
+    "numero": "80",
+    "nome": "SAMARA",
+    "partido": "UP",
+    "votos": 122911,
+    "pct_validos": 0.1
+   },
+   {
+    "numero": "16",
+    "nome": "HERTZ DIAS",
+    "partido": "PSTU",
+    "votos": 43103,
+    "pct_validos": 0.04
+   },
+   {
+    "numero": "27",
+    "nome": "CLARIANA BARAO",
+    "partido": "DC",
+    "votos": 40043,
+    "pct_validos": 0.03
+   },
+   {
+    "numero": "21",
+    "nome": "EDMILSON COSTA",
+    "partido": "PCB",
+    "votos": 22693,
+    "pct_validos": 0.02
+   },
+   {
+    "numero": "35",
+    "nome": "VETERINÁRIO WILSON GRASSI",
+    "partido": "DEMOCRATA",
+    "votos": 16881,
+    "pct_validos": 0.01
+   },
+   {
+    "numero": "29",
+    "nome": "RUI COSTA PIMENTA",
+    "partido": "PCO",
+    "votos": 15024,
+    "pct_validos": 0.01
+   }
+  ]
+ },
+ "regioes": [
+  {
+   "uf": "N",
+   "nome": "Norte",
+   "eleitorado": 13101175,
+   "comparecimento": 10554993,
+   "abstencao": 2546182,
+   "abstencao_pct": 19.43,
+   "validos": 10191910,
+   "brancos": 109407,
+   "nulos": 253676,
+   "brancos_pct_comparecimento": 1.04,
+   "nulos_pct_comparecimento": 2.4,
+   "votos": {
+    "flavio": 5009437,
+    "caiado": 137956,
+    "lula": 4550602,
+    "cury": 291576,
+    "zema": 8009,
+    "renan": 177691,
+    "nanicos": 16639
+   },
+   "pct_validos": {
+    "flavio": 49.15,
+    "caiado": 1.35,
+    "lula": 44.65,
+    "cury": 2.86,
+    "zema": 0.08,
+    "renan": 1.74,
+    "nanicos": 0.16,
+    "outros_nao_flavio_lula": 6.2
+   },
+   "margem_flavio_menos_lula_pp": 4.5,
+   "ufs": [
+    "AC",
+    "AP",
+    "AM",
+    "PA",
+    "RO",
+    "RR",
+    "TO"
+   ],
+   "peso_no_total_validos_pct": 8.54
+  },
+  {
+   "uf": "NE",
+   "nome": "Nordeste",
+   "eleitorado": 43511237,
+   "comparecimento": 35508871,
+   "abstencao": 8002366,
+   "abstencao_pct": 18.39,
+   "validos": 33704652,
+   "brancos": 586406,
+   "nulos": 1217813,
+   "brancos_pct_comparecimento": 1.65,
+   "nulos_pct_comparecimento": 3.43,
+   "votos": {
+    "flavio": 10398973,
+    "caiado": 390036,
+    "lula": 21494584,
+    "zema": 28647,
+    "cury": 818977,
+    "renan": 529395,
+    "nanicos": 44040
+   },
+   "pct_validos": {
+    "flavio": 30.85,
+    "caiado": 1.16,
+    "lula": 63.77,
+    "zema": 0.08,
+    "cury": 2.43,
+    "renan": 1.57,
+    "nanicos": 0.13,
+    "outros_nao_flavio_lula": 5.37
+   },
+   "margem_flavio_menos_lula_pp": -32.92,
+   "ufs": [
+    "AL",
+    "BA",
+    "CE",
+    "MA",
+    "PB",
+    "PE",
+    "PI",
+    "RN",
+    "SE"
+   ],
+   "peso_no_total_validos_pct": 28.25
+  },
+  {
+   "uf": "CO",
+   "nome": "Centro-Oeste",
+   "eleitorado": 12001141,
+   "comparecimento": 9396336,
+   "abstencao": 2604805,
+   "abstencao_pct": 21.7,
+   "validos": 9084197,
+   "brancos": 113031,
+   "nulos": 199108,
+   "brancos_pct_comparecimento": 1.2,
+   "nulos_pct_comparecimento": 2.12,
+   "votos": {
+    "flavio": 5133436,
+    "caiado": 613487,
+    "lula": 2963043,
+    "zema": 12803,
+    "cury": 178995,
+    "renan": 165836,
+    "nanicos": 16597
+   },
+   "pct_validos": {
+    "flavio": 56.51,
+    "caiado": 6.75,
+    "lula": 32.62,
+    "zema": 0.14,
+    "cury": 1.97,
+    "renan": 1.83,
+    "nanicos": 0.18,
+    "outros_nao_flavio_lula": 10.87
+   },
+   "margem_flavio_menos_lula_pp": 23.89,
+   "ufs": [
+    "DF",
+    "GO",
+    "MT",
+    "MS"
+   ],
+   "peso_no_total_validos_pct": 7.61
+  },
+  {
+   "uf": "SE",
+   "nome": "Sudeste",
+   "eleitorado": 66344562,
+   "comparecimento": 51281350,
+   "abstencao": 15063212,
+   "abstencao_pct": 22.7,
+   "validos": 48479961,
+   "brancos": 1146293,
+   "nulos": 1655096,
+   "brancos_pct_comparecimento": 2.24,
+   "nulos_pct_comparecimento": 3.23,
+   "votos": {
+    "flavio": 24899609,
+    "caiado": 1048935,
+    "lula": 19237398,
+    "zema": 220822,
+    "cury": 1614623,
+    "renan": 1316598,
+    "nanicos": 141976
+   },
+   "pct_validos": {
+    "flavio": 51.36,
+    "caiado": 2.16,
+    "lula": 39.68,
+    "zema": 0.46,
+    "cury": 3.33,
+    "renan": 2.72,
+    "nanicos": 0.29,
+    "outros_nao_flavio_lula": 8.96
+   },
+   "margem_flavio_menos_lula_pp": 11.68,
+   "ufs": [
+    "ES",
+    "MG",
+    "RJ",
+    "SP"
+   ],
+   "peso_no_total_validos_pct": 40.64
+  },
+  {
+   "uf": "S",
+   "nome": "Sul",
+   "eleitorado": 22870853,
+   "comparecimento": 18192519,
+   "abstencao": 4678334,
+   "abstencao_pct": 20.46,
+   "validos": 17509186,
+   "brancos": 339845,
+   "nulos": 343488,
+   "brancos_pct_comparecimento": 1.87,
+   "nulos_pct_comparecimento": 1.89,
+   "votos": {
+    "flavio": 10519148,
+    "caiado": 410026,
+    "lula": 5476524,
+    "cury": 534664,
+    "zema": 52878,
+    "renan": 477787,
+    "nanicos": 38159
+   },
+   "pct_validos": {
+    "flavio": 60.08,
+    "caiado": 2.34,
+    "lula": 31.28,
+    "cury": 3.05,
+    "zema": 0.3,
+    "renan": 2.73,
+    "nanicos": 0.22,
+    "outros_nao_flavio_lula": 8.64
+   },
+   "margem_flavio_menos_lula_pp": 28.8,
+   "ufs": [
+    "PR",
+    "RS",
+    "SC"
+   ],
+   "peso_no_total_validos_pct": 14.68
+  }
+ ],
+ "ufs": [
+  {
+   "uf": "AC",
+   "nome": "Acre",
+   "eleitorado": 613742,
+   "comparecimento": 488330,
+   "abstencao": 125412,
+   "abstencao_pct": 20.43,
+   "validos": 469066,
+   "brancos": 5579,
+   "nulos": 13685,
+   "brancos_pct_comparecimento": 1.14,
+   "nulos_pct_comparecimento": 2.8,
+   "votos": {
+    "flavio": 302807,
+    "caiado": 8594,
+    "lula": 134770,
+    "cury": 13523,
+    "zema": 573,
+    "renan": 7980,
+    "nanicos": 819
+   },
+   "pct_validos": {
+    "flavio": 64.56,
+    "caiado": 1.83,
+    "lula": 28.73,
+    "cury": 2.88,
+    "zema": 0.12,
+    "renan": 1.7,
+    "nanicos": 0.17,
+    "outros_nao_flavio_lula": 6.71
+   },
+   "margem_flavio_menos_lula_pp": 35.83,
+   "regiao": "N"
+  },
+  {
+   "uf": "AL",
+   "nome": "Alagoas",
+   "eleitorado": 2442126,
+   "comparecimento": 1938428,
+   "abstencao": 503698,
+   "abstencao_pct": 20.63,
+   "validos": 1818856,
+   "brancos": 33712,
+   "nulos": 85860,
+   "brancos_pct_comparecimento": 1.74,
+   "nulos_pct_comparecimento": 4.43,
+   "votos": {
+    "flavio": 735718,
+    "caiado": 14198,
+    "lula": 995459,
+    "zema": 1168,
+    "cury": 42427,
+    "renan": 26851,
+    "nanicos": 3035
+   },
+   "pct_validos": {
+    "flavio": 40.45,
+    "caiado": 0.78,
+    "lula": 54.73,
+    "zema": 0.06,
+    "cury": 2.33,
+    "renan": 1.48,
+    "nanicos": 0.17,
+    "outros_nao_flavio_lula": 4.82
+   },
+   "margem_flavio_menos_lula_pp": -14.28,
+   "regiao": "NE"
+  },
+  {
+   "uf": "AP",
+   "nome": "Amapá",
+   "eleitorado": 576988,
+   "comparecimento": 476562,
+   "abstencao": 100426,
+   "abstencao_pct": 17.41,
+   "validos": 464858,
+   "brancos": 4415,
+   "nulos": 7289,
+   "brancos_pct_comparecimento": 0.93,
+   "nulos_pct_comparecimento": 1.53,
+   "votos": {
+    "flavio": 212278,
+    "caiado": 8304,
+    "lula": 212503,
+    "cury": 19057,
+    "zema": 341,
+    "renan": 11342,
+    "nanicos": 1033
+   },
+   "pct_validos": {
+    "flavio": 45.67,
+    "caiado": 1.79,
+    "lula": 45.71,
+    "cury": 4.1,
+    "zema": 0.07,
+    "renan": 2.44,
+    "nanicos": 0.22,
+    "outros_nao_flavio_lula": 8.62
+   },
+   "margem_flavio_menos_lula_pp": -0.04,
+   "regiao": "N"
+  },
+  {
+   "uf": "AM",
+   "nome": "Amazonas",
+   "eleitorado": 2798611,
+   "comparecimento": 2234549,
+   "abstencao": 564062,
+   "abstencao_pct": 20.16,
+   "validos": 2170763,
+   "brancos": 24402,
+   "nulos": 39384,
+   "brancos_pct_comparecimento": 1.09,
+   "nulos_pct_comparecimento": 1.76,
+   "votos": {
+    "flavio": 976764,
+    "caiado": 28310,
+    "lula": 1046996,
+    "zema": 1781,
+    "cury": 77531,
+    "renan": 35411,
+    "nanicos": 3970
+   },
+   "pct_validos": {
+    "flavio": 45.0,
+    "caiado": 1.3,
+    "lula": 48.23,
+    "zema": 0.08,
+    "cury": 3.57,
+    "renan": 1.63,
+    "nanicos": 0.18,
+    "outros_nao_flavio_lula": 6.77
+   },
+   "margem_flavio_menos_lula_pp": -3.23,
+   "regiao": "N"
+  },
+  {
+   "uf": "BA",
+   "nome": "Bahia",
+   "eleitorado": 11312752,
+   "comparecimento": 9053601,
+   "abstencao": 2259151,
+   "abstencao_pct": 19.97,
+   "validos": 8560291,
+   "brancos": 154936,
+   "nulos": 338374,
+   "brancos_pct_comparecimento": 1.71,
+   "nulos_pct_comparecimento": 3.74,
+   "votos": {
+    "flavio": 2442585,
+    "caiado": 122705,
+    "lula": 5664771,
+    "cury": 195451,
+    "zema": 6497,
+    "renan": 117518,
+    "nanicos": 10764
+   },
+   "pct_validos": {
+    "flavio": 28.53,
+    "caiado": 1.43,
+    "lula": 66.17,
+    "cury": 2.28,
+    "zema": 0.08,
+    "renan": 1.37,
+    "nanicos": 0.13,
+    "outros_nao_flavio_lula": 5.29
+   },
+   "margem_flavio_menos_lula_pp": -37.64,
+   "regiao": "NE"
+  },
+  {
+   "uf": "CE",
+   "nome": "Ceará",
+   "eleitorado": 6996545,
+   "comparecimento": 5910471,
+   "abstencao": 1086074,
+   "abstencao_pct": 15.52,
+   "validos": 5617814,
+   "brancos": 103295,
+   "nulos": 189362,
+   "brancos_pct_comparecimento": 1.75,
+   "nulos_pct_comparecimento": 3.2,
+   "votos": {
+    "flavio": 1756850,
+    "caiado": 45604,
+    "lula": 3555263,
+    "zema": 4310,
+    "cury": 140524,
+    "renan": 107587,
+    "nanicos": 7676
+   },
+   "pct_validos": {
+    "flavio": 31.27,
+    "caiado": 0.81,
+    "lula": 63.29,
+    "zema": 0.08,
+    "cury": 2.5,
+    "renan": 1.92,
+    "nanicos": 0.14,
+    "outros_nao_flavio_lula": 5.44
+   },
+   "margem_flavio_menos_lula_pp": -32.02,
+   "regiao": "NE"
+  },
+  {
+   "uf": "DF",
+   "nome": "Distrito Federal",
+   "eleitorado": 2258320,
+   "comparecimento": 1831396,
+   "abstencao": 426924,
+   "abstencao_pct": 18.9,
+   "validos": 1772808,
+   "brancos": 25362,
+   "nulos": 33226,
+   "brancos_pct_comparecimento": 1.38,
+   "nulos_pct_comparecimento": 1.81,
+   "votos": {
+    "flavio": 909616,
+    "caiado": 85076,
+    "lula": 675627,
+    "zema": 4915,
+    "cury": 45979,
+    "renan": 46714,
+    "nanicos": 4881
+   },
+   "pct_validos": {
+    "flavio": 51.31,
+    "caiado": 4.8,
+    "lula": 38.11,
+    "zema": 0.28,
+    "cury": 2.59,
+    "renan": 2.64,
+    "nanicos": 0.28,
+    "outros_nao_flavio_lula": 10.58
+   },
+   "margem_flavio_menos_lula_pp": 13.2,
+   "regiao": "CO"
+  },
+  {
+   "uf": "ES",
+   "nome": "Espírito Santo",
+   "eleitorado": 2991650,
+   "comparecimento": 2352282,
+   "abstencao": 639368,
+   "abstencao_pct": 21.37,
+   "validos": 2251078,
+   "brancos": 43211,
+   "nulos": 57993,
+   "brancos_pct_comparecimento": 1.84,
+   "nulos_pct_comparecimento": 2.47,
+   "votos": {
+    "flavio": 1233194,
+    "caiado": 39097,
+    "lula": 850028,
+    "zema": 5873,
+    "cury": 65121,
+    "renan": 53236,
+    "nanicos": 4529
+   },
+   "pct_validos": {
+    "flavio": 54.78,
+    "caiado": 1.74,
+    "lula": 37.76,
+    "zema": 0.26,
+    "cury": 2.89,
+    "renan": 2.36,
+    "nanicos": 0.2,
+    "outros_nao_flavio_lula": 7.46
+   },
+   "margem_flavio_menos_lula_pp": 17.02,
+   "regiao": "SE"
+  },
+  {
+   "uf": "GO",
+   "nome": "Goiás",
+   "eleitorado": 5080590,
+   "comparecimento": 3971587,
+   "abstencao": 1109003,
+   "abstencao_pct": 21.83,
+   "validos": 3827823,
+   "brancos": 45643,
+   "nulos": 98121,
+   "brancos_pct_comparecimento": 1.15,
+   "nulos_pct_comparecimento": 2.47,
+   "votos": {
+    "flavio": 2051888,
+    "caiado": 472041,
+    "lula": 1188880,
+    "cury": 53849,
+    "zema": 2672,
+    "renan": 54105,
+    "nanicos": 4388
+   },
+   "pct_validos": {
+    "flavio": 53.6,
+    "caiado": 12.33,
+    "lula": 31.06,
+    "cury": 1.41,
+    "zema": 0.07,
+    "renan": 1.41,
+    "nanicos": 0.11,
+    "outros_nao_flavio_lula": 15.34
+   },
+   "margem_flavio_menos_lula_pp": 22.54,
+   "regiao": "CO"
+  },
+  {
+   "uf": "MA",
+   "nome": "Maranhão",
+   "eleitorado": 5183115,
+   "comparecimento": 4160343,
+   "abstencao": 1022772,
+   "abstencao_pct": 19.73,
+   "validos": 4010439,
+   "brancos": 46315,
+   "nulos": 103589,
+   "brancos_pct_comparecimento": 1.11,
+   "nulos_pct_comparecimento": 2.49,
+   "votos": {
+    "flavio": 1239040,
+    "caiado": 50155,
+    "lula": 2566301,
+    "zema": 4584,
+    "cury": 84830,
+    "renan": 60387,
+    "nanicos": 5142
+   },
+   "pct_validos": {
+    "flavio": 30.9,
+    "caiado": 1.25,
+    "lula": 63.99,
+    "zema": 0.11,
+    "cury": 2.12,
+    "renan": 1.51,
+    "nanicos": 0.13,
+    "outros_nao_flavio_lula": 5.11
+   },
+   "margem_flavio_menos_lula_pp": -33.09,
+   "regiao": "NE"
+  },
+  {
+   "uf": "MT",
+   "nome": "Mato Grosso",
+   "eleitorado": 2637801,
+   "comparecimento": 2052133,
+   "abstencao": 585668,
+   "abstencao_pct": 22.2,
+   "validos": 1993288,
+   "brancos": 20756,
+   "nulos": 38089,
+   "brancos_pct_comparecimento": 1.01,
+   "nulos_pct_comparecimento": 1.86,
+   "votos": {
+    "flavio": 1298581,
+    "caiado": 33079,
+    "lula": 581681,
+    "cury": 40019,
+    "zema": 2424,
+    "renan": 33170,
+    "nanicos": 4334
+   },
+   "pct_validos": {
+    "flavio": 65.15,
+    "caiado": 1.66,
+    "lula": 29.18,
+    "cury": 2.01,
+    "zema": 0.12,
+    "renan": 1.66,
+    "nanicos": 0.22,
+    "outros_nao_flavio_lula": 5.67
+   },
+   "margem_flavio_menos_lula_pp": 35.97,
+   "regiao": "CO"
+  },
+  {
+   "uf": "MS",
+   "nome": "Mato Grosso do Sul",
+   "eleitorado": 2024430,
+   "comparecimento": 1541220,
+   "abstencao": 483210,
+   "abstencao_pct": 23.87,
+   "validos": 1490278,
+   "brancos": 21270,
+   "nulos": 29672,
+   "brancos_pct_comparecimento": 1.38,
+   "nulos_pct_comparecimento": 1.93,
+   "votos": {
+    "flavio": 873351,
+    "caiado": 23291,
+    "lula": 516855,
+    "cury": 39148,
+    "zema": 2792,
+    "renan": 31847,
+    "nanicos": 2994
+   },
+   "pct_validos": {
+    "flavio": 58.6,
+    "caiado": 1.56,
+    "lula": 34.68,
+    "cury": 2.63,
+    "zema": 0.19,
+    "renan": 2.14,
+    "nanicos": 0.2,
+    "outros_nao_flavio_lula": 6.71
+   },
+   "margem_flavio_menos_lula_pp": 23.92,
+   "regiao": "CO"
+  },
+  {
+   "uf": "MG",
+   "nome": "Minas Gerais",
+   "eleitorado": 16372372,
+   "comparecimento": 12637274,
+   "abstencao": 3735098,
+   "abstencao_pct": 22.81,
+   "validos": 11976235,
+   "brancos": 268302,
+   "nulos": 392737,
+   "brancos_pct_comparecimento": 2.12,
+   "nulos_pct_comparecimento": 3.11,
+   "votos": {
+    "flavio": 5777548,
+    "caiado": 230423,
+    "lula": 5188936,
+    "zema": 98407,
+    "cury": 409737,
+    "renan": 247209,
+    "nanicos": 23975
+   },
+   "pct_validos": {
+    "flavio": 48.24,
+    "caiado": 1.92,
+    "lula": 43.33,
+    "zema": 0.82,
+    "cury": 3.42,
+    "renan": 2.06,
+    "nanicos": 0.2,
+    "outros_nao_flavio_lula": 8.43
+   },
+   "margem_flavio_menos_lula_pp": 4.91,
+   "regiao": "SE"
+  },
+  {
+   "uf": "PA",
+   "nome": "Pará",
+   "eleitorado": 6262397,
+   "comparecimento": 5066504,
+   "abstencao": 1195893,
+   "abstencao_pct": 19.1,
+   "validos": 4863172,
+   "brancos": 54203,
+   "nulos": 149129,
+   "brancos_pct_comparecimento": 1.07,
+   "nulos_pct_comparecimento": 2.94,
+   "votos": {
+    "flavio": 2163957,
+    "caiado": 51991,
+    "lula": 2427237,
+    "zema": 3064,
+    "cury": 125172,
+    "renan": 84165,
+    "nanicos": 7586
+   },
+   "pct_validos": {
+    "flavio": 44.5,
+    "caiado": 1.07,
+    "lula": 49.91,
+    "zema": 0.06,
+    "cury": 2.57,
+    "renan": 1.73,
+    "nanicos": 0.16,
+    "outros_nao_flavio_lula": 5.59
+   },
+   "margem_flavio_menos_lula_pp": -5.41,
+   "regiao": "N"
+  },
+  {
+   "uf": "PB",
+   "nome": "Paraíba",
+   "eleitorado": 3248531,
+   "comparecimento": 2683988,
+   "abstencao": 564543,
+   "abstencao_pct": 17.38,
+   "validos": 2513747,
+   "brancos": 52297,
+   "nulos": 117944,
+   "brancos_pct_comparecimento": 1.95,
+   "nulos_pct_comparecimento": 4.39,
+   "votos": {
+    "flavio": 831377,
+    "caiado": 19511,
+    "lula": 1541127,
+    "cury": 73831,
+    "zema": 1988,
+    "renan": 42247,
+    "nanicos": 3666
+   },
+   "pct_validos": {
+    "flavio": 33.07,
+    "caiado": 0.78,
+    "lula": 61.31,
+    "cury": 2.94,
+    "zema": 0.08,
+    "renan": 1.68,
+    "nanicos": 0.15,
+    "outros_nao_flavio_lula": 5.62
+   },
+   "margem_flavio_menos_lula_pp": -28.24,
+   "regiao": "NE"
+  },
+  {
+   "uf": "PR",
+   "nome": "Paraná",
+   "eleitorado": 8613657,
+   "comparecimento": 6841457,
+   "abstencao": 1772200,
+   "abstencao_pct": 20.57,
+   "validos": 6585243,
+   "brancos": 122499,
+   "nulos": 133715,
+   "brancos_pct_comparecimento": 1.79,
+   "nulos_pct_comparecimento": 1.95,
+   "votos": {
+    "flavio": 3945345,
+    "caiado": 171294,
+    "lula": 2054597,
+    "cury": 205095,
+    "zema": 17172,
+    "renan": 177434,
+    "nanicos": 14306
+   },
+   "pct_validos": {
+    "flavio": 59.91,
+    "caiado": 2.6,
+    "lula": 31.2,
+    "cury": 3.11,
+    "zema": 0.26,
+    "renan": 2.69,
+    "nanicos": 0.22,
+    "outros_nao_flavio_lula": 8.89
+   },
+   "margem_flavio_menos_lula_pp": 28.71,
+   "regiao": "S"
+  },
+  {
+   "uf": "PE",
+   "nome": "Pernambuco",
+   "eleitorado": 7223450,
+   "comparecimento": 5911062,
+   "abstencao": 1312388,
+   "abstencao_pct": 18.17,
+   "validos": 5601017,
+   "brancos": 109491,
+   "nulos": 200554,
+   "brancos_pct_comparecimento": 1.85,
+   "nulos_pct_comparecimento": 3.39,
+   "votos": {
+    "flavio": 1738043,
+    "caiado": 73176,
+    "lula": 3553971,
+    "zema": 6060,
+    "cury": 137960,
+    "renan": 85865,
+    "nanicos": 5942
+   },
+   "pct_validos": {
+    "flavio": 31.03,
+    "caiado": 1.31,
+    "lula": 63.45,
+    "zema": 0.11,
+    "cury": 2.46,
+    "renan": 1.53,
+    "nanicos": 0.11,
+    "outros_nao_flavio_lula": 5.52
+   },
+   "margem_flavio_menos_lula_pp": -32.42,
+   "regiao": "NE"
+  },
+  {
+   "uf": "PI",
+   "nome": "Piauí",
+   "eleitorado": 2704758,
+   "comparecimento": 2240883,
+   "abstencao": 463875,
+   "abstencao_pct": 17.15,
+   "validos": 2146394,
+   "brancos": 28329,
+   "nulos": 66160,
+   "brancos_pct_comparecimento": 1.26,
+   "nulos_pct_comparecimento": 2.95,
+   "votos": {
+    "flavio": 517028,
+    "caiado": 21629,
+    "lula": 1523710,
+    "zema": 1357,
+    "cury": 47692,
+    "renan": 32274,
+    "nanicos": 2704
+   },
+   "pct_validos": {
+    "flavio": 24.09,
+    "caiado": 1.01,
+    "lula": 70.99,
+    "zema": 0.06,
+    "cury": 2.22,
+    "renan": 1.5,
+    "nanicos": 0.13,
+    "outros_nao_flavio_lula": 4.92
+   },
+   "margem_flavio_menos_lula_pp": -46.9,
+   "regiao": "NE"
+  },
+  {
+   "uf": "RJ",
+   "nome": "Rio de Janeiro",
+   "eleitorado": 12857648,
+   "comparecimento": 9859802,
+   "abstencao": 2997846,
+   "abstencao_pct": 23.32,
+   "validos": 9369700,
+   "brancos": 201979,
+   "nulos": 288123,
+   "brancos_pct_comparecimento": 2.05,
+   "nulos_pct_comparecimento": 2.92,
+   "votos": {
+    "flavio": 4966844,
+    "caiado": 199844,
+    "lula": 3693021,
+    "zema": 21907,
+    "cury": 247397,
+    "renan": 211843,
+    "nanicos": 28844
+   },
+   "pct_validos": {
+    "flavio": 53.01,
+    "caiado": 2.13,
+    "lula": 39.41,
+    "zema": 0.23,
+    "cury": 2.64,
+    "renan": 2.26,
+    "nanicos": 0.31,
+    "outros_nao_flavio_lula": 7.58
+   },
+   "margem_flavio_menos_lula_pp": 13.6,
+   "regiao": "SE"
+  },
+  {
+   "uf": "RN",
+   "nome": "Rio Grande do Norte",
+   "eleitorado": 2659825,
+   "comparecimento": 2171013,
+   "abstencao": 488812,
+   "abstencao_pct": 18.38,
+   "validos": 2071898,
+   "brancos": 33172,
+   "nulos": 65943,
+   "brancos_pct_comparecimento": 1.53,
+   "nulos_pct_comparecimento": 3.04,
+   "votos": {
+    "flavio": 720493,
+    "caiado": 16407,
+    "lula": 1237963,
+    "zema": 1525,
+    "cury": 57367,
+    "renan": 35261,
+    "nanicos": 2882
+   },
+   "pct_validos": {
+    "flavio": 34.77,
+    "caiado": 0.79,
+    "lula": 59.75,
+    "zema": 0.07,
+    "cury": 2.77,
+    "renan": 1.7,
+    "nanicos": 0.14,
+    "outros_nao_flavio_lula": 5.48
+   },
+   "margem_flavio_menos_lula_pp": -24.98,
+   "regiao": "NE"
+  },
+  {
+   "uf": "RS",
+   "nome": "Rio Grande do Sul",
+   "eleitorado": 8522545,
+   "comparecimento": 6702903,
+   "abstencao": 1819642,
+   "abstencao_pct": 21.35,
+   "validos": 6423046,
+   "brancos": 148339,
+   "nulos": 131518,
+   "brancos_pct_comparecimento": 2.21,
+   "nulos_pct_comparecimento": 1.96,
+   "votos": {
+    "flavio": 3573783,
+    "caiado": 158821,
+    "lula": 2294759,
+    "zema": 18988,
+    "cury": 195296,
+    "renan": 167558,
+    "nanicos": 13841
+   },
+   "pct_validos": {
+    "flavio": 55.64,
+    "caiado": 2.47,
+    "lula": 35.73,
+    "zema": 0.3,
+    "cury": 3.04,
+    "renan": 2.61,
+    "nanicos": 0.22,
+    "outros_nao_flavio_lula": 8.63
+   },
+   "margem_flavio_menos_lula_pp": 19.91,
+   "regiao": "S"
+  },
+  {
+   "uf": "RO",
+   "nome": "Rondônia",
+   "eleitorado": 1265893,
+   "comparecimento": 991080,
+   "abstencao": 274813,
+   "abstencao_pct": 21.71,
+   "validos": 968059,
+   "brancos": 9846,
+   "nulos": 13175,
+   "brancos_pct_comparecimento": 0.99,
+   "nulos_pct_comparecimento": 1.33,
+   "votos": {
+    "flavio": 652988,
+    "caiado": 16929,
+    "lula": 250667,
+    "cury": 25280,
+    "zema": 1318,
+    "renan": 19187,
+    "nanicos": 1690
+   },
+   "pct_validos": {
+    "flavio": 67.45,
+    "caiado": 1.75,
+    "lula": 25.89,
+    "cury": 2.61,
+    "zema": 0.14,
+    "renan": 1.98,
+    "nanicos": 0.17,
+    "outros_nao_flavio_lula": 6.65
+   },
+   "margem_flavio_menos_lula_pp": 41.56,
+   "regiao": "N"
+  },
+  {
+   "uf": "RR",
+   "nome": "Roraima",
+   "eleitorado": 401521,
+   "comparecimento": 332772,
+   "abstencao": 68749,
+   "abstencao_pct": 17.12,
+   "validos": 325545,
+   "brancos": 2618,
+   "nulos": 4609,
+   "brancos_pct_comparecimento": 0.79,
+   "nulos_pct_comparecimento": 1.39,
+   "votos": {
+    "flavio": 231322,
+    "caiado": 3639,
+    "lula": 74420,
+    "zema": 337,
+    "cury": 8579,
+    "renan": 6623,
+    "nanicos": 625
+   },
+   "pct_validos": {
+    "flavio": 71.06,
+    "caiado": 1.12,
+    "lula": 22.86,
+    "zema": 0.1,
+    "cury": 2.64,
+    "renan": 2.03,
+    "nanicos": 0.19,
+    "outros_nao_flavio_lula": 6.08
+   },
+   "margem_flavio_menos_lula_pp": 48.2,
+   "regiao": "N"
+  },
+  {
+   "uf": "SC",
+   "nome": "Santa Catarina",
+   "eleitorado": 5734651,
+   "comparecimento": 4648159,
+   "abstencao": 1086492,
+   "abstencao_pct": 18.95,
+   "validos": 4500897,
+   "brancos": 69007,
+   "nulos": 78255,
+   "brancos_pct_comparecimento": 1.48,
+   "nulos_pct_comparecimento": 1.68,
+   "votos": {
+    "flavio": 3000020,
+    "caiado": 79911,
+    "lula": 1127168,
+    "zema": 16718,
+    "cury": 134273,
+    "renan": 132795,
+    "nanicos": 10012
+   },
+   "pct_validos": {
+    "flavio": 66.65,
+    "caiado": 1.78,
+    "lula": 25.04,
+    "zema": 0.37,
+    "cury": 2.98,
+    "renan": 2.95,
+    "nanicos": 0.22,
+    "outros_nao_flavio_lula": 8.3
+   },
+   "margem_flavio_menos_lula_pp": 41.61,
+   "regiao": "S"
+  },
+  {
+   "uf": "SP",
+   "nome": "São Paulo",
+   "eleitorado": 34122892,
+   "comparecimento": 26431992,
+   "abstencao": 7690900,
+   "abstencao_pct": 22.54,
+   "validos": 24882948,
+   "brancos": 632801,
+   "nulos": 916243,
+   "brancos_pct_comparecimento": 2.39,
+   "nulos_pct_comparecimento": 3.47,
+   "votos": {
+    "flavio": 12922023,
+    "caiado": 579571,
+    "lula": 9505413,
+    "cury": 892368,
+    "zema": 94635,
+    "renan": 804310,
+    "nanicos": 84628
+   },
+   "pct_validos": {
+    "flavio": 51.93,
+    "caiado": 2.33,
+    "lula": 38.2,
+    "cury": 3.59,
+    "zema": 0.38,
+    "renan": 3.23,
+    "nanicos": 0.34,
+    "outros_nao_flavio_lula": 9.87
+   },
+   "margem_flavio_menos_lula_pp": 13.73,
+   "regiao": "SE"
+  },
+  {
+   "uf": "SE",
+   "nome": "Sergipe",
+   "eleitorado": 1740135,
+   "comparecimento": 1439082,
+   "abstencao": 301053,
+   "abstencao_pct": 17.3,
+   "validos": 1364196,
+   "brancos": 24859,
+   "nulos": 50027,
+   "brancos_pct_comparecimento": 1.73,
+   "nulos_pct_comparecimento": 3.48,
+   "votos": {
+    "flavio": 417839,
+    "caiado": 26651,
+    "lula": 856019,
+    "cury": 38895,
+    "zema": 1158,
+    "renan": 21405,
+    "nanicos": 2229
+   },
+   "pct_validos": {
+    "flavio": 30.63,
+    "caiado": 1.95,
+    "lula": 62.75,
+    "cury": 2.85,
+    "zema": 0.08,
+    "renan": 1.57,
+    "nanicos": 0.16,
+    "outros_nao_flavio_lula": 6.62
+   },
+   "margem_flavio_menos_lula_pp": -32.12,
+   "regiao": "NE"
+  },
+  {
+   "uf": "TO",
+   "nome": "Tocantins",
+   "eleitorado": 1182023,
+   "comparecimento": 965196,
+   "abstencao": 216827,
+   "abstencao_pct": 18.34,
+   "validos": 930447,
+   "brancos": 8344,
+   "nulos": 26405,
+   "brancos_pct_comparecimento": 0.86,
+   "nulos_pct_comparecimento": 2.74,
+   "votos": {
+    "flavio": 469321,
+    "caiado": 20189,
+    "lula": 404009,
+    "cury": 22434,
+    "zema": 595,
+    "renan": 12983,
+    "nanicos": 916
+   },
+   "pct_validos": {
+    "flavio": 50.44,
+    "caiado": 2.17,
+    "lula": 43.42,
+    "cury": 2.41,
+    "zema": 0.06,
+    "renan": 1.4,
+    "nanicos": 0.1,
+    "outros_nao_flavio_lula": 6.14
+   },
+   "margem_flavio_menos_lula_pp": 7.02,
+   "regiao": "N"
+  }
+ ],
+ "exterior": {
+  "uf": "ZZ",
+  "nome": "Exterior",
+  "eleitorado": 916534,
+  "comparecimento": 341766,
+  "abstencao": 574345,
+  "abstencao_pct": 62.66,
+  "validos": 330882,
+  "brancos": 5816,
+  "nulos": 5068,
+  "brancos_pct_comparecimento": 1.7,
+  "nulos_pct_comparecimento": 1.48,
+  "votos": {
+   "flavio": 143900,
+   "caiado": 4708,
+   "lula": 157387,
+   "zema": 3329,
+   "cury": 9734,
+   "renan": 8580,
+   "nanicos": 3244
+  },
+  "pct_validos": {
+   "flavio": 43.49,
+   "caiado": 1.42,
+   "lula": 47.57,
+   "zema": 1.01,
+   "cury": 2.94,
+   "renan": 2.59,
+   "nanicos": 0.98,
+   "outros_nao_flavio_lula": 8.94
+  },
+  "margem_flavio_menos_lula_pp": -4.08
+ },
+ "pesquisas_vespera_t1": {
+  "nota": "validos_calc = votos totais (Wikipedia) / (100 - branco_nulo_indeciso), calculo proprio. erro = pesquisa - urna, em pp (negativo = subestimou). erro_margem = (F-L pesquisa) - (F-L urna = +1,87). Quando validos_publicados diverge de validos_calc (Datafolha, Quaest), tratar totais da Wikipedia como nao confirmados.",
+  "resultado_ref": {
+   "flavio": 47.03,
+   "lula": 45.16
+  },
+  "lista": [
+   {
+    "instituto": "Datafolha",
+    "campo": "03/10",
+    "amostra": 4006,
+    "totais": {
+     "lula": 42,
+     "flavio": 40,
+     "caiado": 4,
+     "zema": 0,
+     "renan": 3,
+     "cury": 3,
+     "outros": 0,
+     "branco_nulo_indeciso": 7
+    },
+    "validos_calc": {
+     "lula": 45.2,
+     "flavio": 43.0
+    },
+    "erro_flavio": -4.0,
+    "erro_lula": -0.0,
+    "erro_margem": -4.0,
+    "fonte_totais": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Brazilian_presidential_election",
+    "validos_publicados": {
+     "lula": 45,
+     "flavio": 42,
+     "fonte": "https://jornalrazao.com/politica/pesquisas-erraram-flavio-bolsonaro-primeiro-turno-2026"
+    }
+   },
+   {
+    "instituto": "Quaest",
+    "campo": "02-03/10",
+    "amostra": 3702,
+    "totais": {
+     "lula": 40,
+     "flavio": 38,
+     "caiado": 3,
+     "zema": 0,
+     "renan": 3,
+     "cury": 3,
+     "outros": 0,
+     "branco_nulo_indeciso": 13
+    },
+    "validos_calc": {
+     "lula": 46.0,
+     "flavio": 43.7
+    },
+    "erro_flavio": -3.3,
+    "erro_lula": 0.8,
+    "erro_margem": -4.2,
+    "fonte_totais": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Brazilian_presidential_election",
+    "validos_publicados": {
+     "lula": 46,
+     "flavio": 45,
+     "fonte": "https://www.metropoles.com/colunas/andreza-matais/pesquisas-acertaram-votacao-de-lula-mas-subestimaram-flavio-bolsonaro"
+    }
+   },
+   {
+    "instituto": "Futura",
+    "campo": "02-03/10",
+    "amostra": 2000,
+    "totais": {
+     "lula": 40.5,
+     "flavio": 42.5,
+     "caiado": 3.7,
+     "zema": 0.8,
+     "renan": 2.6,
+     "cury": 3.9,
+     "outros": 1,
+     "branco_nulo_indeciso": 2.6
+    },
+    "validos_calc": {
+     "lula": 41.6,
+     "flavio": 43.6
+    },
+    "erro_flavio": -3.4,
+    "erro_lula": -3.6,
+    "erro_margem": 0.2,
+    "fonte_totais": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Brazilian_presidential_election",
+    "validos_publicados": {
+     "lula": 42.6,
+     "flavio": 44.8,
+     "fonte": "https://www.congressoemfoco.com.br/noticia/122891/pesquisas-subestimaram-flavio-no-1-turno-veja-quais-chegaram-perto",
+     "nota": "Congresso em Foco nao informa campo; BPMoney atribui 44,8/42,6 a rodada 25-29/09"
+    }
+   },
+   {
+    "instituto": "Palver",
+    "campo": "30/09-03/10",
+    "amostra": 5000,
+    "totais": {
+     "lula": 43,
+     "flavio": 47,
+     "caiado": 1,
+     "zema": 0,
+     "renan": 7,
+     "cury": 1,
+     "outros": 0,
+     "branco_nulo_indeciso": 0
+    },
+    "validos_calc": {
+     "lula": 43.0,
+     "flavio": 47.0
+    },
+    "erro_flavio": -0.0,
+    "erro_lula": -2.2,
+    "erro_margem": 2.1,
+    "fonte_totais": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Brazilian_presidential_election",
+    "validos_publicados": {
+     "lula": 43,
+     "flavio": 47,
+     "fonte": "https://jornalrazao.com/politica/pesquisas-erraram-flavio-bolsonaro-primeiro-turno-2026"
+    }
+   },
+   {
+    "instituto": "PoderData",
+    "campo": "30/09-02/10",
+    "amostra": 4000,
+    "totais": {
+     "lula": 42,
+     "flavio": 41,
+     "caiado": 2,
+     "zema": 1,
+     "renan": 3,
+     "cury": 3,
+     "outros": 1,
+     "branco_nulo_indeciso": 6
+    },
+    "validos_calc": {
+     "lula": 44.7,
+     "flavio": 43.6
+    },
+    "erro_flavio": -3.4,
+    "erro_lula": -0.5,
+    "erro_margem": -2.9,
+    "fonte_totais": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Brazilian_presidential_election",
+    "validos_publicados": {
+     "lula": 45,
+     "flavio": 43,
+     "fonte": "https://jornalrazao.com/politica/pesquisas-erraram-flavio-bolsonaro-primeiro-turno-2026"
+    }
+   },
+   {
+    "instituto": "CNT/MDA",
+    "campo": "29/09-02/10",
+    "amostra": 2007,
+    "totais": {
+     "lula": 43.1,
+     "flavio": 38,
+     "caiado": 3,
+     "zema": 0.8,
+     "renan": 1.5,
+     "cury": 3.2,
+     "outros": 0.5,
+     "branco_nulo_indeciso": 9.7
+    },
+    "validos_calc": {
+     "lula": 47.7,
+     "flavio": 42.1
+    },
+    "erro_flavio": -4.9,
+    "erro_lula": 2.6,
+    "erro_margem": -7.5,
+    "fonte_totais": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Brazilian_presidential_election",
+    "validos_publicados": {
+     "lula": 47.8,
+     "flavio": 42.1,
+     "fonte": "https://jornalrazao.com/politica/pesquisas-erraram-flavio-bolsonaro-primeiro-turno-2026"
+    }
+   },
+   {
+    "instituto": "AtlasIntel",
+    "campo": "27/09-02/10",
+    "amostra": 4945,
+    "totais": {
+     "lula": 46.7,
+     "flavio": 43.8,
+     "caiado": 1.4,
+     "zema": 0.3,
+     "renan": 4.6,
+     "cury": 2.1,
+     "outros": 0.6,
+     "branco_nulo_indeciso": 0.6
+    },
+    "validos_calc": {
+     "lula": 47.0,
+     "flavio": 44.1
+    },
+    "erro_flavio": -3.0,
+    "erro_lula": 1.8,
+    "erro_margem": -4.8,
+    "fonte_totais": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Brazilian_presidential_election",
+    "validos_publicados": {
+     "lula": 47,
+     "flavio": 44.1,
+     "fonte": "https://www.metropoles.com/colunas/andreza-matais/pesquisas-acertaram-votacao-de-lula-mas-subestimaram-flavio-bolsonaro"
+    }
+   },
+   {
+    "instituto": "Vox Brasil",
+    "campo": "29/09-01/10",
+    "amostra": 2100,
+    "totais": {
+     "lula": 40.4,
+     "flavio": 41.2,
+     "caiado": 3.3,
+     "zema": 1.3,
+     "renan": 2.2,
+     "cury": 1.2,
+     "outros": 0.2,
+     "branco_nulo_indeciso": 10.2
+    },
+    "validos_calc": {
+     "lula": 45.0,
+     "flavio": 45.9
+    },
+    "erro_flavio": -1.1,
+    "erro_lula": -0.2,
+    "erro_margem": -1.0,
+    "fonte_totais": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Brazilian_presidential_election",
+    "validos_publicados": {
+     "lula": 44.9,
+     "flavio": 45.8,
+     "fonte": "https://jornalrazao.com/politica/pesquisas-erraram-flavio-bolsonaro-primeiro-turno-2026"
+    }
+   },
+   {
+    "instituto": "Real Time Big Data",
+    "campo": "26-30/09",
+    "amostra": 2000,
+    "totais": {
+     "lula": 43,
+     "flavio": 39,
+     "caiado": 3,
+     "zema": 1,
+     "renan": 4,
+     "cury": 3,
+     "outros": 1,
+     "branco_nulo_indeciso": 6
+    },
+    "validos_calc": {
+     "lula": 45.7,
+     "flavio": 41.5
+    },
+    "erro_flavio": -5.5,
+    "erro_lula": 0.6,
+    "erro_margem": -6.1,
+    "fonte_totais": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Brazilian_presidential_election"
+   },
+   {
+    "instituto": "Indexa",
+    "campo": "27-29/09",
+    "amostra": 2000,
+    "totais": {
+     "lula": 39,
+     "flavio": 34,
+     "caiado": 4,
+     "zema": 1,
+     "renan": 3,
+     "cury": 4,
+     "outros": 0,
+     "branco_nulo_indeciso": 11
+    },
+    "validos_calc": {
+     "lula": 43.8,
+     "flavio": 38.2
+    },
+    "erro_flavio": -8.8,
+    "erro_lula": -1.3,
+    "erro_margem": -7.5,
+    "fonte_totais": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Brazilian_presidential_election"
+   },
+   {
+    "instituto": "Ideia",
+    "campo": "25-28/09",
+    "amostra": 2000,
+    "totais": {
+     "lula": 39.4,
+     "flavio": 38.4,
+     "caiado": 4.4,
+     "zema": 3.5,
+     "renan": 4.5,
+     "cury": 6.7,
+     "outros": 1.4,
+     "branco_nulo_indeciso": 2.2
+    },
+    "validos_calc": {
+     "lula": 40.3,
+     "flavio": 39.3
+    },
+    "erro_flavio": -7.8,
+    "erro_lula": -4.9,
+    "erro_margem": -2.9,
+    "fonte_totais": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Brazilian_presidential_election"
+   },
+   {
+    "instituto": "Nexus (BTG)",
+    "campo": "25-27/09",
+    "amostra": 2000,
+    "totais": {
+     "lula": 42,
+     "flavio": 37,
+     "caiado": 5,
+     "zema": 1,
+     "renan": 4,
+     "cury": 5,
+     "outros": 1,
+     "branco_nulo_indeciso": 5
+    },
+    "validos_calc": {
+     "lula": 44.2,
+     "flavio": 38.9
+    },
+    "erro_flavio": -8.1,
+    "erro_lula": -1.0,
+    "erro_margem": -7.1,
+    "fonte_totais": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Brazilian_presidential_election"
+   },
+   {
+    "instituto": "Gerp",
+    "campo": "30/09-02/10",
+    "amostra": 2400,
+    "validos_publicados": {
+     "lula": 44,
+     "flavio": 46,
+     "fonte": "https://jornalrazao.com/politica/pesquisas-erraram-flavio-bolsonaro-primeiro-turno-2026"
+    },
+    "erro_flavio": -1.0,
+    "erro_lula": -1.2,
+    "erro_margem": 0.1
+   },
+   {
+    "instituto": "Veritá",
+    "campo": "nao confirmado",
+    "validos_publicados": {
+     "lula": 45,
+     "flavio": 47,
+     "fonte": "https://www.congressoemfoco.com.br/noticia/122891/pesquisas-subestimaram-flavio-no-1-turno-veja-quais-chegaram-perto",
+     "nota": "NAO CONFIRMADO: Bahia Noticias (via Jornal Razao) da 45,14/44,65"
+    },
+    "erro_flavio": 0.0,
+    "erro_lula": -0.2,
+    "erro_margem": 0.1
+   }
+  ],
+  "resumo_8_ultimas_semana": {
+   "institutos": [
+    "Datafolha 03/10",
+    "Quaest 02-03/10",
+    "Futura 02-03/10",
+    "Palver 30/09-03/10",
+    "PoderData 30/09-02/10",
+    "CNT/MDA 29/09-02/10",
+    "AtlasIntel 27/09-02/10",
+    "Vox Brasil 29/09-01/10"
+   ],
+   "erro_medio_flavio": -2.89,
+   "erro_medio_lula": -0.16,
+   "erro_medio_margem": -2.76,
+   "base": "validos_calc"
+  },
+  "congresso_em_foco": {
+   "erro_medio_flavio": -3.08,
+   "n": 9,
+   "url": "https://www.congressoemfoco.com.br/noticia/122891/pesquisas-subestimaram-flavio-no-1-turno-veja-quais-chegaram-perto"
+  },
+  "nao_encontradas": [
+   "Ipec/Ipsos-Ipec vespera nacional",
+   "Parana Pesquisas vespera nacional"
+  ]
+ },
+ "transferencia_terceira_via": {
+  "datafolha_06-08_10": {
+   "grupo": "eleitores de Cury+Renan+Caiado+Zema no 1T",
+   "flavio": 46,
+   "lula": 32,
+   "branco_nulo": 15,
+   "amostra": 2520,
+   "registro": "BR-02949/2026",
+   "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/08/datafolha-quem-ganha-os-votos-de-cury-renan-caiado-e-zema.html"
+  },
+  "datafolha_18-20_08_pre_t1": {
+   "zema_para_flavio": 60,
+   "caiado_para_flavio": 54,
+   "renan_para_flavio": 48,
+   "amostra": 2058,
+   "url": "https://www.cartacapital.com.br/cartaexpressa/datafolha-detalha-a-migracao-de-votos-de-zema-caiado-e-renan-santos-no-2o-turno-veja-os-numeros/"
+  }
+ }
+}

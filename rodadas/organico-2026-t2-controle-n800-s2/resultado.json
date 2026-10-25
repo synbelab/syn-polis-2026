@@ -1,0 +1,187 @@
+{
+ "t2": {
+  "flavio": 0.5750636132315522,
+  "lula": 0.42493638676844786
+ },
+ "serie": [
+  {
+   "dia": 0,
+   "flavio": 0.4593,
+   "lula": 0.4255,
+   "branco_nulo": 0.0,
+   "indeciso": 0.1151
+  },
+  {
+   "dia": 1,
+   "flavio": 0.4593,
+   "lula": 0.4255,
+   "branco_nulo": 0.0,
+   "indeciso": 0.1151
+  },
+  {
+   "dia": 2,
+   "flavio": 0.4593,
+   "lula": 0.4255,
+   "branco_nulo": 0.0,
+   "indeciso": 0.1151
+  },
+  {
+   "dia": 3,
+   "flavio": 0.4693,
+   "lula": 0.3817,
+   "branco_nulo": 0.005,
+   "indeciso": 0.1439
+  },
+  {
+   "dia": 4,
+   "flavio": 0.4693,
+   "lula": 0.3817,
+   "branco_nulo": 0.005,
+   "indeciso": 0.1439
+  },
+  {
+   "dia": 5,
+   "flavio": 0.4693,
+   "lula": 0.3817,
+   "branco_nulo": 0.005,
+   "indeciso": 0.1439
+  },
+  {
+   "dia": 6,
+   "flavio": 0.4718,
+   "lula": 0.3179,
+   "branco_nulo": 0.0075,
+   "indeciso": 0.2028
+  },
+  {
+   "dia": 7,
+   "flavio": 0.4718,
+   "lula": 0.3179,
+   "branco_nulo": 0.0075,
+   "indeciso": 0.2028
+  },
+  {
+   "dia": 8,
+   "flavio": 0.4718,
+   "lula": 0.3179,
+   "branco_nulo": 0.0075,
+   "indeciso": 0.2028
+  },
+  {
+   "dia": 9,
+   "flavio": 0.5056,
+   "lula": 0.3392,
+   "branco_nulo": 0.0075,
+   "indeciso": 0.1477
+  },
+  {
+   "dia": 10,
+   "flavio": 0.5056,
+   "lula": 0.3392,
+   "branco_nulo": 0.0075,
+   "indeciso": 0.1477
+  },
+  {
+   "dia": 11,
+   "flavio": 0.5056,
+   "lula": 0.3392,
+   "branco_nulo": 0.0075,
+   "indeciso": 0.1477
+  },
+  {
+   "dia": 12,
+   "flavio": 0.5344,
+   "lula": 0.3867,
+   "branco_nulo": 0.0088,
+   "indeciso": 0.0701
+  },
+  {
+   "dia": 13,
+   "flavio": 0.5544,
+   "lula": 0.3967,
+   "branco_nulo": 0.0113,
+   "indeciso": 0.0375
+  }
+ ],
+ "citacoes": [
+  {
+   "dia": 1,
+   "tipo": "conversa",
+   "fala": "Ô Natália, minha fia, como é que tão as coisa por aí em Jundiaí? O tempo tá mudando, né, uai? / Oi, Seu João! Tudo certo, tipo assim, tá aquele friozinho chato, né? Correria total aqui no trabalho, a distribuidora não para."
+  },
+  {
+   "dia": 2,
+   "tipo": "conversa",
+   "fala": "Nossa, que resultado surpreendente! 47 pra 45, ficou muito parelho. Então agora é definir quem vai ter o apoio de Caiado e Zema no segundo turno. / Pois é... 47% pra 45%... Ficou muito próximo. O importante mesmo é que a gente tem liberdade para escolher, e o resultado mostra que o povo tá dividido mesmo, né?"
+  },
+  {
+   "dia": 3,
+   "tipo": "conversa",
+   "fala": "Nossa, que resultado estranho, né? 47 pra ele e 45 pra Lula, quase empatou. Aí caiu o Zema e o Caiado atrás do Bolsonaro, tem que ficar de olho. / Pois é, resultado apertado. Fiquei feliz em ver que o Seu Claudio também está na indecisão, dá uma aliviada. Mas continuo rezando pra coisa andar bem, se Deus quiser."
+  },
+  {
+   "dia": 4,
+   "tipo": "conversa",
+   "fala": "E aí, Igor! Como tá a oficina? Ainda tá aquele caos de carro parado por causa de peça? / Putz, meu, tá osso! Tipo assim, chega a peça do motor mas demora pra caramba a parte elétrica. Tá um gargalo doido, mano."
+  },
+  {
+   "dia": 5,
+   "tipo": "conversa",
+   "fala": "Claudia, você viu? O Flávio foi bem no primeiro turno, quase 48%. Com o Caiado e o Zema ajudando, a chance dele vencer é grande, não acha? / Olha, com esse pessoal todo apoiando o Flávio e a promessa de baixar imposto, fica difícil mudar, né meu bem? Vou nele mesmo pra ver se a coisa melhora pro meu negócio."
+  },
+  {
+   "dia": 6,
+   "tipo": "conversa",
+   "fala": "E aí, Seu Antonio! Tudo tranquilo? Como tá a vida aí em Jundiaí? / Tudo na paz, meu filho... a gente vai levando, sabe como é, vida que segue. E você, como tá a escola e a ajuda pro seu pai na feira?"
+  },
+  {
+   "dia": 7,
+   "tipo": "conversa",
+   "fala": "Bah, os apoios do Flávio são massa, mas essa inflação tá castigando geral, até a Dona Zilda. Tô bem dividido porque não quero vacilar com meu bolso, mas o Lula também não é a solução. / Bah, meu bem, com a inflação subindo assim, o bolso aperta, mas eu não abro mão de quem olha pra quem trabalha. O Lula é quem dá esperança de ter mais tempo pros meus netos com esse fim da escala 6x1."
+  },
+  {
+   "dia": 8,
+   "tipo": "conversa",
+   "fala": "Uai, vi que o gás subiu mais um pouco aqui em Contagem, tá difícil mesmo pra fechar o orçamento da casa no final do mês. / Que pressão, Juliana! O aluguel aqui em Niterói também subiu, mas fico feliz que o Flávio tá focado em segurança, assim a gente pode circular mais tranquila."
+  },
+  {
+   "dia": 9,
+   "tipo": "conversa",
+   "fala": "Oi, tudo bem? Vi que você conversou com o Thiago sobre o segundo turno, o que ele achou do apoio do Zema? / Oi! O Thiago acha que tem que segurar o nariz e votar nele, mas eu fico em dúvida... Zema apoiou o Flávio, então deve ser certo, mas a inflação tá muito alta no mercado também."
+  },
+  {
+   "dia": 10,
+   "tipo": "conversa",
+   "fala": "Oi, tudo bem? Vi que o Flavio tá com apoio de Zema e Caiado, mas caraca, ainda tô com o Lula na cabeça pra segunda rodada, to de olho no que ele vai fazer com a escala 6x1. / Olá, querida. Graças a Deus, o Flávio consolidou esse apoio de nomes importantes. A inflação tá complicando o orçamento de casa, mas prefiro confiar em quem defende liberdade econômica do que em promessas de fim de escala."
+  },
+  {
+   "dia": 11,
+   "tipo": "conversa",
+   "fala": "Nossa, ainda tô chocado com esse primeiro turno. Flavio quase empatou com Lula, 47% contra 45%. Senta pra ver se o negócio melhora. / Verdade. E agora caiu o Zema e o Caiado atrás do Flavio. O jogo tá mudando. Mas confesso que o discurso do Lula sobre trabalho me deixou com pulga atrás da orelha."
+  },
+  {
+   "dia": 12,
+   "tipo": "conversa",
+   "fala": "Olá, Patricia! Tudo bem? Vi que você conversou com o Rafael sobre o segundo turno. Como está sua cabeça depois desse resultado apertado no primeiro? / Oi, Isabela! Tudo. E você? Que legal que você conversou com o Nicolas, deve ser alívio ter alguém da família pensando parecido sobre segurança e impostos, não é?"
+  },
+  {
+   "dia": 13,
+   "tipo": "conversa",
+   "fala": "Uai, vi que o Zema tava com o Flávio de novo, heim? Mas a conta do mercado tava complicada já, não acha? / Nossa, que notícia pesada. O coração aperta, mas a gente precisa confiar, se Deus quiser as coisas se ajeitam pra gente trabalhadora."
+  }
+ ],
+ "motivos": [
+  "Oxente, rapaz... Lula tá lembrando do açaí e da escala 6x1, e as promessas do Flávio já foram feitas antes e nada mudou.",
+  "Tô com o coração pesado, mas o que eu senti no bolso com o auxílio e a volta de alguns direitos pesa mais que promessa de corte de impostos ",
+  "Meu irmão, tô vendo que o Flávio tá falando pro bolso do trabalhador e a inflação, embora tenha subido, não explodiu — ele merece essa chanc",
+  "Tô vendo que o discurso do fim da escala 6x1 tá pegando mais forte do que eu imaginava — principalmente quando ouvi o Edson e o Roberto fala",
+  "Lula ainda é o que mais entende do sofrimento do povo humilde, meu filho, e já mostrou que cuida de nós, se Deus quiser.",
+  "Tô vendo que esse cansaço que eu sinto não é só meu, é de todo mundo que trabalha duro e ainda tem que lutar pra ter um descanso decente.",
+  "O aperto em casa tá grande e a promessa de acabar com a escala 6x1 é o que a gente mais precisa pra ter um respiro.",
+  "Olha, com tanto apoio e a promessa de baixar os imposto, vou de Flávio pra ver se meu salão cresce e a segurança melhora, né meu bem?",
+  "Se o Lula mostrar que dá pra acabar com a escala 6x1 sem apertar meu bolso, aí vale a pena mudar de ideia, bah.",
+  "Vou votar no Flávio porque confio na segurança e no corte de impostos pra minha família, com a graça de Deus.",
+  "Voto no Flávio Bolsonaro para proteger minha fé, minha família e garantir a segurança da nossa nação, graças a Deus.",
+  "Meu coração tá apertado, mas as conta da lojinha não esperam e eu preciso que esse imposto baixe pra gente conseguir respirar."
+ ]
+}

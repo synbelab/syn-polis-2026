@@ -1,0 +1,75 @@
+{
+ "config": "2026-t2",
+ "rodadas": 50,
+ "checagem": {
+  "t1_reproduzido_pct_validos": {
+   "flavio": 47.18,
+   "lula": 45.05,
+   "cury": 2.95,
+   "zema": 0.24,
+   "caiado": 2.17,
+   "renan": 2.27,
+   "outros": 0.14
+  },
+  "transferencia_terceira_via_pct": {
+   "flavio": 50.6,
+   "lula": 34.5,
+   "branco_nulo": 14.9
+  },
+  "referencia_transferencia": "Datafolha 06-08/10: Flavio 46 / Lula 32 / branco-nulo 15"
+ },
+ "dia0": {
+  "flavio": {
+   "media": 52.39,
+   "dp": 0.54,
+   "min": 50.8,
+   "max": 53.24
+  },
+  "lula": {
+   "media": 47.61,
+   "dp": 0.54,
+   "min": 46.76,
+   "max": 49.2
+  }
+ },
+ "urna": {
+  "flavio": {
+   "media": 52.34,
+   "dp": 0.47,
+   "min": 51.0,
+   "max": 53.24
+  },
+  "lula": {
+   "media": 47.66,
+   "dp": 0.47,
+   "min": 46.76,
+   "max": 49.0
+  }
+ },
+ "vitorias": {
+  "flavio": 50
+ },
+ "regional": {
+  "Centro-Oeste": {
+   "flavio": 64.96,
+   "lula": 35.04
+  },
+  "Nordeste": {
+   "flavio": 33.85,
+   "lula": 66.15
+  },
+  "Norte": {
+   "flavio": 53.47,
+   "lula": 46.53
+  },
+  "Sudeste": {
+   "flavio": 57.23,
+   "lula": 42.77
+  },
+  "Sul": {
+   "flavio": 66.45,
+   "lula": 33.55
+  }
+ },
+ "abstencao_media": 21.0
+}

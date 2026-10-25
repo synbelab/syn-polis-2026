@@ -1,0 +1,267 @@
+{
+ "t2": {
+  "flavio": 0.4910025706940874,
+  "lula": 0.5089974293059126
+ },
+ "serie": [
+  {
+   "dia": 0,
+   "flavio": 0.4593,
+   "lula": 0.4243,
+   "branco_nulo": 0.0,
+   "indeciso": 0.1164
+  },
+  {
+   "dia": 1,
+   "flavio": 0.4593,
+   "lula": 0.4243,
+   "branco_nulo": 0.0,
+   "indeciso": 0.1164
+  },
+  {
+   "dia": 2,
+   "flavio": 0.4593,
+   "lula": 0.4243,
+   "branco_nulo": 0.0,
+   "indeciso": 0.1164
+  },
+  {
+   "dia": 3,
+   "flavio": 0.4418,
+   "lula": 0.4293,
+   "branco_nulo": 0.0025,
+   "indeciso": 0.1264
+  },
+  {
+   "dia": 4,
+   "flavio": 0.4418,
+   "lula": 0.4293,
+   "branco_nulo": 0.0025,
+   "indeciso": 0.1264
+  },
+  {
+   "dia": 5,
+   "flavio": 0.4418,
+   "lula": 0.4293,
+   "branco_nulo": 0.0025,
+   "indeciso": 0.1264
+  },
+  {
+   "dia": 6,
+   "flavio": 0.4668,
+   "lula": 0.4355,
+   "branco_nulo": 0.0013,
+   "indeciso": 0.0964
+  },
+  {
+   "dia": 7,
+   "flavio": 0.4668,
+   "lula": 0.4355,
+   "branco_nulo": 0.0013,
+   "indeciso": 0.0964
+  },
+  {
+   "dia": 8,
+   "flavio": 0.4668,
+   "lula": 0.4355,
+   "branco_nulo": 0.0013,
+   "indeciso": 0.0964
+  },
+  {
+   "dia": 9,
+   "flavio": 0.4718,
+   "lula": 0.4593,
+   "branco_nulo": 0.005,
+   "indeciso": 0.0638
+  },
+  {
+   "dia": 10,
+   "flavio": 0.4718,
+   "lula": 0.4593,
+   "branco_nulo": 0.005,
+   "indeciso": 0.0638
+  },
+  {
+   "dia": 11,
+   "flavio": 0.4718,
+   "lula": 0.4593,
+   "branco_nulo": 0.005,
+   "indeciso": 0.0638
+  },
+  {
+   "dia": 12,
+   "flavio": 0.4856,
+   "lula": 0.4831,
+   "branco_nulo": 0.005,
+   "indeciso": 0.0263
+  },
+  {
+   "dia": 13,
+   "flavio": 0.4894,
+   "lula": 0.4856,
+   "branco_nulo": 0.0063,
+   "indeciso": 0.0188
+  }
+ ],
+ "citacoes": [
+  {
+   "dia": 1,
+   "tipo": "evento",
+   "fala": "Uai, isso aqui me deixa meio perdida, porque os dois lados falam tão alto que eu quase não escuto o que é bom pra mim e pro meu marido e filha. O desemprego tá bom, mas a inflação subindo dói no bolso, e eu ainda não sei em quem confiar mais."
+  },
+  {
+   "dia": 1,
+   "tipo": "evento",
+   "fala": "Bah, isso me deixa pensativo... Lula quer acabar com a escala 6x1, mas Flavio tá falando de corte de imposto e mais segurança, e eu tô vendo que o preço do gás e da comida não dá trégua. Capaz que eu vá pra Flavio no segundo turno, mesmo não tendo decidido no primeiro."
+  },
+  {
+   "dia": 1,
+   "tipo": "conversa",
+   "fala": "Oxente, Larissa! Vi que o Flavio tá ficando forte de novo, Caiado e Zema declararam apoio. Você tá achando que isso vai mudar o jogo aqui no Nordeste? / Mãe, aqui em casa a gente tá tranquilo. Lula já mostrou que cuida do povo, da saúde e da educação. Acho que o povo nordestino não vai deixar ele cair não, não é?"
+  },
+  {
+   "dia": 2,
+   "tipo": "evento",
+   "fala": "Sabe, quando o Lula fala do fim da escala 6x1, me toca sim, porque sei o quanto isso pesa pra mãe de família que trabalha demais e ainda vê o salário não rendendo, mesmo com o desemprego baixando... mas eu ainda tô ouvindo a campanha, porque segurança e impostos também são prioridade pra gente que trabalha no comércio e vê a inflação corroendo o pouco que sobra."
+  },
+  {
+   "dia": 2,
+   "tipo": "evento",
+   "fala": "Oxente, meu filho, Lula tá falando direito do que a gente sofre aqui no hospital, com aquela escala 6x1 que tira o sono e a saúde de quem cuida dos outros… isso me toca fundo, reforça meu voto nele, pois ele tá olhando pra gente, não só pra números."
+  },
+  {
+   "dia": 2,
+   "tipo": "conversa",
+   "fala": "Oxente, rapaz, vê esse negócio do MDB entrando pro lado do Flavio? Isso aqui mostra que o povo tá cansado de enrolação e quer ordem de verdade, não adianta fica. / Mermão, escala 6x1 é problema de verdade, mas tem dia que a conta no final do mês aperta mais, sabe? O importante é conseguir pagar as contas e garantir o pão na mesa."
+  },
+  {
+   "dia": 3,
+   "tipo": "evento",
+   "fala": "O debate tava bem quente, mas nada que me fez mudar de ideia — tô ainda no Lula, mesmo com a pressão do Flavio e os apoios dele."
+  },
+  {
+   "dia": 3,
+   "tipo": "evento",
+   "fala": "Bah, vi o debate e fiquei mais na dúvida ainda... Lula falou bonito da escala 6x1, mas o Flavio tava mais objetivo na segurança e no bolso, que é o que tá pesando pra mim agora."
+  },
+  {
+   "dia": 3,
+   "tipo": "conversa",
+   "fala": "Bah, vi o resultado e Flavio abriu vantagem. Agora é ver se ele segura o segundo turno contra Lula, mas a escala 6x1 tá atrapalhando a cabeça de muita gente por aqui. / Bah, isso mexe comigo. Se o Lula acabar com a escala, ganho mais tempo com o filho, mas se o Flavio mantiver, pelo menos o preço do gás tá mais baixo, sabe?"
+  },
+  {
+   "dia": 4,
+   "tipo": "evento",
+   "fala": "Bah, tô mais na dúvida ainda... Lula fala de dar um tempo pra gente, mas Flavio corta imposto e fala de segurança, e com o gás caro e o filho pequeno, cada real conta... não sei nem pra onde correr."
+  },
+  {
+   "dia": 4,
+   "tipo": "evento",
+   "fala": "Oxente, meu filho, se o Lula vai mesmo acabar com essa escala 6x1 que me deixa exausta até pra abraçar minha filha, então meu voto já tá dado: dignidade no trabalho pesa mais que qualquer promessa de imposto baixo."
+  },
+  {
+   "dia": 4,
+   "tipo": "conversa",
+   "fala": "Bah, essa história de acabar com a escala 6x1 do Lula me irrita, mas o problema mesmo é o preço da peça subindo. Se o Flávio cortar imposto e não baixar o custo pra mim, é tudo igual pra oficina. / Gente, com todo mundo fechando com o Flávio e ele garantindo a segurança, acho que ele tem mesmo que ganhar. A fala do Lula sobre 6x1 mexe, mas o voto tá mais no bolso e na estabilidade."
+  },
+  {
+   "dia": 5,
+   "tipo": "conversa",
+   "fala": "Olá Sandra, tudo bem? Vi que o transporte aqui em Campinas continua um caos, meus filhos ainda sofrem com os atrasos nos ônibus. / Oi Márcia, sim. O assunto da escala 6x1 veio forte no grupo de whatsapp da igreja, muita gente reclamando da falta de descanso."
+  },
+  {
+   "dia": 6,
+   "tipo": "evento",
+   "fala": "Oxente, viu o ato pro-Flavio na Paulista? Meus netos ficaram empolgados, mas eu tô com o pé no chão: segurança e bolso primeiro, promessa de Lula eu já vi demais pra acreditar agora."
+  },
+  {
+   "dia": 6,
+   "tipo": "evento",
+   "fala": "Meu, ver o Flavio no debate e aquele ato na Paulista me deixou ainda mais na certa: ele tá falando o que a gente sente no bolso, menos imposto pra quem trabalha de verdade."
+  },
+  {
+   "dia": 6,
+   "tipo": "conversa",
+   "fala": "Uai, Marcia? Tava vendo a notícia que o Flavio fechou apoio dos governadores, o negócio tá ficando forte pra ele no segundo turno. Você viu? / Oi, Alexandre. Vi sim. Caiado e Zema apoiaram, mas pra mim o Lula continua sendo a opção, se Deus quiser. Acabar com essa escala 6x1 é o que a gente precisa."
+  },
+  {
+   "dia": 7,
+   "tipo": "conversa",
+   "fala": "Oi Manoel, tudo bem? Vi que você também está de olho no segundo turno. O debate foi tranquilo, mas fiquei pensando na segurança e no imposto, coisas que impactam direto a rotina daqui de casa. / Uai, A. Esse negócio de acabar com a escala 6x1 mexe muito com a gente que já trabalhou o dia inteiro. Mas confesso que ver aquele pessoal todo na Paulista e as propostas do Flávio me deixaram com uma pulguinha atrás da orelha sobre o bolso."
+  },
+  {
+   "dia": 8,
+   "tipo": "evento",
+   "fala": "Rapaz, esse negócio de desemprego baixar é bom, mas se a inflação tá mordendo o salário, o que adianta? Se acabar esse 6x1, pelo menos eu tô em casa vendo meus filho crescer, pois é isso que importa."
+  },
+  {
+   "dia": 8,
+   "tipo": "evento",
+   "fala": "Bah, tipo assim, desemprego baixo é bom, mas essa inflação tá castigando o mercado, né? Só que nada disso tira o foco do que importa, que é o Lula acabar com a escala 6x1 pro meu marido ter vida!"
+  },
+  {
+   "dia": 8,
+   "tipo": "conversa",
+   "fala": "Nossa, menina, que calor hoje! O filho ligou dizendo que a aula foi cancelada, agora vou ter que reorganizar o expediente aqui em casa. / Que legal! Aqui também está um solzão, mas eu aproveitei pra fazer um projetinho rápido de iluminação pro quarto do menino. Design de interiores é vida."
+  },
+  {
+   "dia": 9,
+   "tipo": "conversa",
+   "fala": "Oxente, mermão, o pessoal da fábrica tá muito irritado com essa história de escala 6x1, mas Flavio tá prometendo baixar imposto, né? Acho que vai de Bolsonaro mesmo. / Oxente, meu filho, depois de ver o Lula defendendo o fim da escala 6x1, tô mais certeza ainda que meu voto é nele. É exatamente o que a gente precisa pra ter um tempinho pra respirar."
+  },
+  {
+   "dia": 10,
+   "tipo": "conversa",
+   "fala": "Meu filho, o resultado do primeiro turno me deixou apreensiva viu? 47% pra ele e 45% pra Lula, parece que o pessoal do interior todo se juntou nele. Espero que ele resolva o problema da escala 6x1 logo. / Olha meu irmão, é complicado. Lula fala de acabar com a escala 6x1 e mexe comigo, mas eu ainda vejo no Flávio a chance de o emprego voltar logo. Quem tá desempregado precisa de solução agora."
+  },
+  {
+   "dia": 11,
+   "tipo": "evento",
+   "fala": "Meu, depois desse último debate, tô ainda mais na certa de votar no Flavio — ele tava falando direto do meu bolso, do meu cansaço, e isso pesa mais que qualquer promessa vazia."
+  },
+  {
+   "dia": 11,
+   "tipo": "evento",
+   "fala": "Tô ainda no Lula, porque fim da escala 6x1 é o que vai dar um fôlego pra gente que trabalha pesado e ganha pouco — Flavio pode cortar imposto, mas se a gente não tem hora pra respirar, adianta nada."
+  },
+  {
+   "dia": 11,
+   "tipo": "conversa",
+   "fala": "Oxente, meu filho, vi que o Flavio tá com mais força agora com o apoio dos governadores, mas confesso que fico receosa com esse negócio de corte de impostos, parece promessa de sempre. / Olhe, o apoio dos governadores me dá confiança, mas essa inflação que não para me deixa com medo de que o corte chegue mesmo no nosso bolso no dia a dia."
+  },
+  {
+   "dia": 12,
+   "tipo": "evento",
+   "fala": "Oxente, meu filho, vendo essa reta final e aquele vídeo do Lula prometendo acabar com a escala 6x1… meu coração bate mais forte, porque é exatamente o que eu preciso pra voltar a sorrir com minha filha no colo sem aquela dor no peito."
+  },
+  {
+   "dia": 12,
+   "tipo": "evento",
+   "fala": "Meu, vendo tudo isso — o apoio dos governadores, o debate onde o Flavio falou direto do meu cansaço, e esse corte na folha que finalmente tá sendo discutido — tô ainda mais certa: ele é o caminho pra quem trava duro e vê o salário sumir no imposto."
+  },
+  {
+   "dia": 12,
+   "tipo": "conversa",
+   "fala": "Renata, seu marido voltou a trabalhar? Aqui em SP as escalas continuam um caos no hospital, mal dá conta de dar conta da filha. / Uai, quase! Ele conseguiu plantão na clínica de reabilitação semana passada, mas a inflação está comer toda a economia no mercado. Você já viu o preço do feijão?"
+  },
+  {
+   "dia": 13,
+   "tipo": "conversa",
+   "fala": "Oxente, meu filho... ta quente demais esse outubro, hein? Aqui em São Gonçalo o sol tá forte e o ônibus lotado não dá descanso pra ninguém. / Uai, amiga, aqui em Contagem tbm tá um calor! Mas o que eu tô sentindo é o preço do gás subindo, minha mãe reclamando todo dia."
+  }
+ ],
+ "motivos": [
+  "Bah, com o gás caro e o filho pra criar, voto no que pesa no bolso agora, não no que promete pro futuro.",
+  "Oxente, meu bolso e o sono do meu marido pesam mais que promessa bonita — Flávio fala direto no que a gente vive no dia a dia.",
+  "Meu, depois de ver o Flavio falando direto do meu bolso e do meu cansaço de diarista, tô certa de que ele é o caminho pra quem trabalha duro",
+  "Sabe, voto no Flavio porque preciso de menos imposto na folha pra manter meus empregados e segurança pra minha família, que é o que mais pes",
+  "Bah, depois de tudo que vi — o povo na Paulista, os governadores firmes, o Flávio não vacilando nos debates — sinto que ele é o caminho pra ",
+  "Oxente, meu irmão... o fim da escala 6x1 é o que me garante mais tempo com meus menino, e isso pesa mais que qualquer promessa de imposto ba",
+  "Lula tá falando do que a gente precisa: menos trabalho braçal e mais respeito pra quem acorda antes do sol.",
+  "Preciso de paz e pão na mesa pra criar minha filha, e o Flávio tá falando de baixar imposto e botar ordem, isso é o que a gente precisa aqui",
+  "Papo reto, cara: se o Lula cumprir o que falou sobre acabar com essa escala 6x1, voto certo dele, porque tempo pra família e pra missa vale ",
+  "A escala 6x1 é mais que número, é dignidade de quem já deu a vida pro trabalho, e Lula fala com quem já bateu ponto a vida inteira.",
+  "Bah, mesmo com a inflação apertando, o fim da escala 6x1 vai dar um respiro pros guris que estão entrando no mercado, e isso pesa mais no me",
+  "Bah, o Flávio entende da nossa lida, corta imposto e põe ordem na casa, é ele que vai melhorar de verdade o nosso dia a dia."
+ ]
+}

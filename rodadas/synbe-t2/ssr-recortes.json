@@ -1,0 +1,60 @@
+{
+ "r2a_ssr_por_regiao": {
+  "Centro-Oeste": {
+   "flavio": 68.0,
+   "lula": 32.0,
+   "dividido": 6.1,
+   "n": 304
+  },
+  "Nordeste": {
+   "flavio": 33.7,
+   "lula": 66.3,
+   "dividido": 5.5,
+   "n": 1103
+  },
+  "Norte": {
+   "flavio": 53.3,
+   "lula": 46.7,
+   "dividido": 5.0,
+   "n": 333
+  },
+  "Sudeste": {
+   "flavio": 58.3,
+   "lula": 41.7,
+   "dividido": 7.3,
+   "n": 1680
+  },
+  "Sul": {
+   "flavio": 66.2,
+   "lula": 33.8,
+   "dividido": 6.0,
+   "n": 579
+  }
+ },
+ "r2a_ssr_transicao": {
+  "flavio": {
+   "flavio": 78.1,
+   "lula": 15.5,
+   "dividido": 6.4,
+   "n": 1825
+  },
+  "lula": {
+   "flavio": 16.8,
+   "lula": 77.3,
+   "dividido": 5.9,
+   "n": 1745
+  },
+  "terceira_via": {
+   "flavio": 63.7,
+   "lula": 28.3,
+   "dividido": 7.9,
+   "n": 306
+  },
+  "nenhum": {
+   "flavio": 56.0,
+   "lula": 35.9,
+   "dividido": 8.1,
+   "n": 123
+  }
+ }
+}

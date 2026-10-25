@@ -1,0 +1,118 @@
+{
+ "nome": "2026-retafinal",
+ "descricao": "RETA FINAL: init em 18/09 (Datafolha 08-10/09 + Atlas 17/09), 16 dias ate o T1 (04/10) e 21 ate o T2 (25/10). Marcal FORA (TSE indeferiu 11/09). Crise do STF (caso Moraes x Master) como evento continuo pro-Flavio + polarizacao. Fontes: dados/2026/fatos-setembro.md e pesquisas-setembro.md.",
+ "amostra": "dados/amostra-4000.json",
+ "candidatos": "dados/2026/candidatos-2026-motor.json",
+ "data_inicio": "2026-09-18",
+ "ancora_declarada": {
+  "_fonte": "mediana 8 institutos 09-16/09 (pivo Datafolha 15-16/09: L39xF36; T2 ~empate, Lula 49.8% validos); Marcal 0 (TSE 11/09); Cury 5 (pos-onda)",
+  "lula": 0.39,
+  "flavio": 0.36,
+  "caiado": 0.04,
+  "renan": 0.04,
+  "zema": 0.025,
+  "marcal": 0.0,
+  "cury": 0.05,
+  "outros": 0.01,
+  "indeciso": 0.085
+ },
+ "ancora_regional": {
+  "_nota_fora_do_motor": "T2-2022 oficial + swing set/2026 (Lula 49.8% validos)",
+  "Sudeste": {
+   "lula": 0.35,
+   "flavio": 0.397
+  },
+  "Nordeste": {
+   "lula": 0.536,
+   "flavio": 0.226
+  },
+  "Sul": {
+   "lula": 0.291,
+   "flavio": 0.45
+  },
+  "Norte": {
+   "lula": 0.372,
+   "flavio": 0.376
+  },
+  "Centro-Oeste": {
+   "lula": 0.303,
+   "flavio": 0.44
+  }
+ },
+ "dias_t1": 16,
+ "dias_t2": 21,
+ "abstencao": 0.21,
+ "vizinhos": 8,
+ "pontes": 0.02,
+ "conversas_por_dia": 0.6,
+ "forca_influencia": 0.04,
+ "ruido_individual": 0.9,
+ "pesquisa_cada": 4,
+ "voto_util_janela": 10,
+ "voto_util_forca": 0.35,
+ "momentum_fator": 5.0,
+ "estigma": {
+  "flavio": 0.1
+ },
+ "eventos": [
+  {
+   "dia": 2,
+   "alvo": "flavio",
+   "forca": 0.06,
+   "alcance": 0.7,
+   "_oque": "crise do STF segue dominando o noticiario (caso Moraes x Master, julgamento suspenso em vista)"
+  },
+  {
+   "dia": 5,
+   "alvo": "flavio",
+   "forca": 0.05,
+   "alcance": 0.7,
+   "_oque": "crise do STF: guerra de oficios entre ministros mantem pauta anti-Lula/Moraes viva"
+  },
+  {
+   "dia": 6,
+   "alvo": "lula",
+   "forca": 0.05,
+   "alcance": 0.6,
+   "_oque": "24/09: comicio regional de Lula em Sobral-CE + giro Nordeste (CE/BA/RN/AL)"
+  },
+  {
+   "dia": 8,
+   "alvo": "flavio",
+   "forca": 0.04,
+   "alcance": 0.6,
+   "_oque": "27/09: debate Record — presencas incertas; corte favoravel circula nas bolhas de direita"
+  },
+  {
+   "dia": 9,
+   "alvo": "lula",
+   "forca": 0.04,
+   "alcance": 0.7,
+   "_oque": "economia: deflacao de agosto (-0,32%) e desemprego minimo entram no horario eleitoral"
+  },
+  {
+   "dia": 11,
+   "alvo": "flavio",
+   "forca": 0.05,
+   "alcance": 0.7,
+   "_oque": "crise do STF: novo capitulo as vesperas do T1 (julgamento sobre investigar Moraes ainda aberto)"
+  },
+  {
+   "dia": 13,
+   "alvo": "lula",
+   "forca": 0.04,
+   "alcance": 0.8,
+   "_oque": "01/10: debate Globo pos-JN, ultimo antes do T1"
+  },
+  {
+   "dia": 14,
+   "alvo": "flavio",
+   "forca": 0.03,
+   "alcance": 0.6,
+   "_oque": "reta final: mobilizacao de rua (motociatas/carreatas) + herdanca do eleitorado de Marcal"
+  }
+ ],
+ "_cenarios_alternativos": {
+  "nota": "variantes para a grade: (a) STF decide INVESTIGAR Moraes antes de 01/10 => eventos flavio forca 0.10-0.12; (b) julgamento arquivado => zerar eventos STF dos dias 11+; (c) escandalo Dark Horse/Vance vira caso criminal => evento anti-flavio forca -0.08; (d) Lula falta aos 2 debates => evento flavio 0.04 extra"
+ }
+}

@@ -1,0 +1,187 @@
+{
+ "t2": {
+  "flavio": 0.5958815958815958,
+  "lula": 0.4041184041184041
+ },
+ "serie": [
+  {
+   "dia": 0,
+   "flavio": 0.4593,
+   "lula": 0.4243,
+   "branco_nulo": 0.0,
+   "indeciso": 0.1164
+  },
+  {
+   "dia": 1,
+   "flavio": 0.4593,
+   "lula": 0.4243,
+   "branco_nulo": 0.0,
+   "indeciso": 0.1164
+  },
+  {
+   "dia": 2,
+   "flavio": 0.4593,
+   "lula": 0.4243,
+   "branco_nulo": 0.0,
+   "indeciso": 0.1164
+  },
+  {
+   "dia": 3,
+   "flavio": 0.4681,
+   "lula": 0.3742,
+   "branco_nulo": 0.005,
+   "indeciso": 0.1527
+  },
+  {
+   "dia": 4,
+   "flavio": 0.4681,
+   "lula": 0.3742,
+   "branco_nulo": 0.005,
+   "indeciso": 0.1527
+  },
+  {
+   "dia": 5,
+   "flavio": 0.4681,
+   "lula": 0.3742,
+   "branco_nulo": 0.005,
+   "indeciso": 0.1527
+  },
+  {
+   "dia": 6,
+   "flavio": 0.4756,
+   "lula": 0.2979,
+   "branco_nulo": 0.0025,
+   "indeciso": 0.224
+  },
+  {
+   "dia": 7,
+   "flavio": 0.4756,
+   "lula": 0.2979,
+   "branco_nulo": 0.0025,
+   "indeciso": 0.224
+  },
+  {
+   "dia": 8,
+   "flavio": 0.4756,
+   "lula": 0.2979,
+   "branco_nulo": 0.0025,
+   "indeciso": 0.224
+  },
+  {
+   "dia": 9,
+   "flavio": 0.5069,
+   "lula": 0.3442,
+   "branco_nulo": 0.0075,
+   "indeciso": 0.1414
+  },
+  {
+   "dia": 10,
+   "flavio": 0.5069,
+   "lula": 0.3442,
+   "branco_nulo": 0.0075,
+   "indeciso": 0.1414
+  },
+  {
+   "dia": 11,
+   "flavio": 0.5069,
+   "lula": 0.3442,
+   "branco_nulo": 0.0075,
+   "indeciso": 0.1414
+  },
+  {
+   "dia": 12,
+   "flavio": 0.5632,
+   "lula": 0.3705,
+   "branco_nulo": 0.01,
+   "indeciso": 0.0563
+  },
+  {
+   "dia": 13,
+   "flavio": 0.5757,
+   "lula": 0.383,
+   "branco_nulo": 0.0125,
+   "indeciso": 0.0288
+  }
+ ],
+ "citacoes": [
+  {
+   "dia": 1,
+   "tipo": "conversa",
+   "fala": "Natalia, viu? Saiu o resultado do primeiro turno, Flavio e Lula num empate técnico. Aí o Caiado, Zema e Cury já declararam apoio ao Flavio pro segundo turno. É muita movimentação! / Oi, Karine! Também vi. Fiquei surpresa com a porcentagem do Flavio, 47% é forte. Agora é esperar pro dia 25, mas confesso que ainda estou pensando em quem vou decidir no segundo turno."
+  },
+  {
+   "dia": 2,
+   "tipo": "conversa",
+   "fala": "Oxe, Jéssica! Menina, vi as fotos daquele jogo de toalha que você postou, ficou coisa mais linda, visse? Tô querendo uns paninhos de prato novos pra minha casa, depois me passa o preço! 😂 / Ô, minha filha, muito obrigada pelo carinho... Faço com todo amor, bem devagarinho. Quando você quiser, é só me avisar que eu separo as cores que você gosta, meu filho."
+  },
+  {
+   "dia": 3,
+   "tipo": "conversa",
+   "fala": "Oi, tudo bem? Acabei de chegar do mercado, tá caro o feijão dessa semana, hein? / Olá! Tava pensando nisso mesmo. O gás subiu de novo? Aí em Sergipe tá difícil o bolso, mas tem que se virar, não é?"
+  },
+  {
+   "dia": 4,
+   "tipo": "conversa",
+   "fala": "Nossa, que dia corrida! Sabe como é, trabalhei o dia todo e ainda precisei correr pro mercado. Agora só quero sentar e ver o resultado do primeiro turno. / Paz e bem. Também cheguei cansado do bico de hoje. Tome um chimarrão? Aqui está fresquinho. Conta aí, como foi o primeiro turno pra você?"
+  },
+  {
+   "dia": 5,
+   "tipo": "conversa",
+   "fala": "Olá, Regina! Tudo bem? Vi que você conversou com a Amanda, certo? Ela tem uma visão bem diferente da minha, acha que tem que mudar tudo. Mas eu acho que, com o que a gente viu no primeiro turno, o caminho é manter o rumo, não é? / Meu filho, aqui em casa a gente está dividido. O filho mais novo quer mudança, acha que a escala 6x1 tem que acabar ontem. Já eu, sigo com o coração mais tranquilo com o Flavio, mas abro espaço pra ouvir o Lula também, depende do que ele vai propor mesmo."
+  },
+  {
+   "dia": 6,
+   "tipo": "conversa",
+   "fala": "Oi, tudo bem? Vi que o resultado do primeiro turno saiu, Flavio e Lula disputam o segundo turno em 25 de outubro. Caiado, Zema e Cury apoiaram o Flavio, né? Fiquei chocada com isso aqui em Minas. / Olá, querida. Tudo tranquilo por aqui. Vi também que o primeiro turno aconteceu e agora é segundo turno. Caiado, Zema e Cury apoiaram o Flávio. Fiquei pensando muito nisso."
+  },
+  {
+   "dia": 7,
+   "tipo": "conversa",
+   "fala": "Nossa, que resultado estranho, né? Flavio num 47% e Lula num 45%, praticamente empate técnico. Aí viu? Caiado e Zema foram pra ele no segundo turno, deve ser complicado pra Lula segurar esse páreo. / Resultado fechado mesmo. Sabe como é, a gente trabalha o dia todo e quando olha pra candidatura tbm fica na dúvida. Mas a inflação tá alta e a segurança daqui de Campinas tbm é questão, então acho que vou manter o voto do primeiro turno."
+  },
+  {
+   "dia": 8,
+   "tipo": "conversa",
+   "fala": "Oi, tudo bem? Vi que você também conversou com a Daniela sobre o segundo turno. O que ela falou? / Bah, a coisa tá apertada, mas não vou mudar. O Flávio é quem defende a família e o bolso da gente, capaz de eu votar no outro!"
+  },
+  {
+   "dia": 9,
+   "tipo": "conversa",
+   "fala": "Como é que estão as coisas aí no Ceará, Dona Michele? A chuva deu uma trégua ou ainda tá castigando a terra? / Olhe, Seu João, a gente vai levando, se Deus quiser. A terra tá seca, mas a fé a gente não perde, meu filho, embora o coração fique apertado com as contas no fim do mês."
+  },
+  {
+   "dia": 10,
+   "tipo": "conversa",
+   "fala": "Bom dia, Thiago! Como estão as crianças? Espero que estejam bem, né? / Bah, Dona Ana, tão crescendo rápido demais! Estão bem, sim. Eu que tô aqui moído, saí cedo do centro de distribuição hoje, o movimento tá pesado."
+  },
+  {
+   "dia": 11,
+   "tipo": "conversa",
+   "fala": "Oxente, Larissa reclamou que o preço do gás subiu mais uma vez aqui em Caruaru. Tudo ficou mais caro, mas eu to pensando em votar no Lula de novo, pelo menos ele entende da nossa dificuldade. / Oxente, meu senhor, aqui na roça tô sentindo o preço do milho e da farinha. Mas o que eu mais quero é que meu benefício chegue em dia, então continuo com o Lula, quem mais vai garantir isso pra gente?"
+  },
+  {
+   "dia": 12,
+   "tipo": "conversa",
+   "fala": "Oi, tudo bem? Vi que você também conferiu o resultado do primeiro turno ontem. 47% a 45%, está muito parelho. / Oi! Sim, foi forte. Mal acreditei quando vi os números. A inflação continuando alta mesmo assim deixa todo mundo preocupado, não é?"
+  },
+  {
+   "dia": 13,
+   "tipo": "conversa",
+   "fala": "Terezinha, você viu o resultado do primeiro turno? Flavio e Lula vão pra segunda, e eu tô pensando em pegar ônibus menos se acabar aquela escala 6x1. / Olha, Adriana, depois de conversar com gente daqui de Carpina, o Lula parece mesmo o que a gente precisa pra segurar o preço do arroz e do gás que tá subindo demais."
+  }
+ ],
+ "motivos": [
+  "Aqui no Paraná, com os impostos pesando e a insegurança crescendo, o Flávio fala mais direto no bolso do trabalhador.",
+  "Tô precisando de um respiro no trabalho, e só o Lula tá falando em acabar com essa escala 6x1 que tá me matando.",
+  "Confio no plano econômico dele e vi que pessoas do meu cotidiano, como o Anderson e o Seu Luiz, também estão nele.",
+  "Oxente, com a inflação apertando e o bolso minguando, Flávio prometeu cortar impostos e trazer segurança — é isso que meu coração sente, meu",
+  "Mano, o custo de vida tá absurdo e eu preciso que a economia engrene e os impostos baixem pra eu conseguir sobreviver no corre.",
+  "Sabe, depois de tudo que vivi — o apoio do Seu Luiz, a palavra do Felipe sobre a inflação apertando, e vendo como o corte de impostos pode r",
+  "Oxente, não tem nem conversa, a luta contra a escala 6x1 é a dignidade que eu e minha família precisamos pra parar de viver só pra trabalhar",
+  "Bah, tipo assim, o Lula é o único que quer acabar com a escala 6x1 pra gente ter tempo com os filho e quem sente o preço do arroz sou eu.",
+  "Oxente, meu irmão... se Lula cumprir o que prometeu sobre a escala 6x1, pode ser que a gente respire um pouco melhor.",
+  "Não confio em nenhum dos dois e vou votar assim só pra não pagar multa, uai.",
+  "A promessa da escala 6x1 é boa, mas o boleto não espera e eu preciso que os impostos baixem pra sobrar um dinheiro no fim do mês.",
+  "Bah, mesmo com o coração apertado pelo sofrimento alheio, confio que o Flavio vai manter a ordem e dar condições pra quem quer trabalhar se "
+ ]
+}

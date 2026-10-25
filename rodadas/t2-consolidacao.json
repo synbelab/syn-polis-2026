@@ -1,0 +1,61 @@
+{
+ "data": "13/10/2026",
+ "regra": "docs/PRE-REGISTRO-T2.md secao 3",
+ "A_numerico_flavio": 52.34,
+ "dia0_flavio": 52.39,
+ "B_organico_bruto_flavio": 49.1,
+ "C_controle_flavio": 59.59,
+ "lift_flavio": -10.49,
+ "B_organico_corrigido_flavio": 41.9,
+ "CONSOLIDADO_PELA_REGRA": {
+  "flavio": 47.12,
+  "lula": 52.88
+ },
+ "testes_de_sanidade_feitos_apos_as_rodadas": {
+  "controle_desercao_lula_t1_para_flavio_sem_eventos_pct": 20,
+  "controle_lula_minimo_intermediario_pct": 29.8,
+  "oficial_transferencia_terceira_via": "Lula 51 / Flavio 42 (Datafolha 06-08/10: Flavio 46 / Lula 32)"
+ },
+ "referencias": {
+  "pesquisas_t2_media_validos_flavio": 52.1,
+  "pesquisas_t2_mediana_validos_flavio": 52.75
+ },
+ "seed2_adendo_13_10": {
+  "seeds": {
+   "1": {
+    "oficial": 49.1,
+    "controle": 59.59,
+    "lift": -10.49,
+    "controle_desercao_lula_para_flavio_pct": 19.8,
+    "oficial_terceira_via": {
+     "flavio": 42,
+     "branco_nulo": 4,
+     "lula": 51,
+     "indeciso": 3
+    }
+   },
+   "2": {
+    "oficial": 51.75,
+    "controle": 57.51,
+    "lift": -5.76,
+    "controle_desercao_lula_para_flavio_pct": 19.4,
+    "oficial_terceira_via": {
+     "lula": 46,
+     "flavio": 51,
+     "branco_nulo": 2,
+     "indeciso": 1
+    }
+   }
+  },
+  "lift_medio": -8.12,
+  "organico_corrigido_flavio": 44.27,
+  "CONSOLIDADO_FINAL": {
+   "flavio": 48.3,
+   "lula": 51.7
+  },
+  "consolidado_so_seed1": {
+   "flavio": 47.12,
+   "lula": 52.88
+  }
+ }
+}

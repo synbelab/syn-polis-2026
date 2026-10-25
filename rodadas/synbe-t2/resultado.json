@@ -1,0 +1,81 @@
+{
+ "protocolo": "syn.Be (syn.Opsis adaptado ao voto): R1 sozinho, exposicao por codigo, R2a cabine, R2b Delphi",
+ "modelo": "gemini-3.1-flash-lite",
+ "temperatura": 0.3,
+ "seed": 2026,
+ "n": 4000,
+ "R1": {
+  "flavio": 59.71,
+  "lula": 40.29,
+  "branco_nulo_pct": 0.23,
+  "n": 4000
+ },
+ "R2a_URNA": {
+  "flavio": 59.5,
+  "lula": 40.5,
+  "branco_nulo_pct": 0.03,
+  "n": 3999
+ },
+ "R2b_declarado": {
+  "flavio": 63.22,
+  "lula": 36.78,
+  "branco_nulo_pct": 0.03,
+  "n": 4000
+ },
+ "R2a_por_regiao": {
+  "Centro-Oeste": {
+   "flavio": 78.95,
+   "lula": 21.05,
+   "branco_nulo_pct": 0.0,
+   "n": 304
+  },
+  "Nordeste": {
+   "flavio": 32.73,
+   "lula": 67.27,
+   "branco_nulo_pct": 0.0,
+   "n": 1103
+  },
+  "Norte": {
+   "flavio": 59.46,
+   "lula": 40.54,
+   "branco_nulo_pct": 0.0,
+   "n": 333
+  },
+  "Sudeste": {
+   "flavio": 67.56,
+   "lula": 32.44,
+   "branco_nulo_pct": 0.0,
+   "n": 1680
+  },
+  "Sul": {
+   "flavio": 76.99,
+   "lula": 23.01,
+   "branco_nulo_pct": 0.17,
+   "n": 579
+  }
+ },
+ "transicao_t1_para_r2a": {
+  "flavio": {
+   "flavio": 98.7,
+   "lula": 1.3,
+   "n": 1825
+  },
+  "lula": {
+   "lula": 86.3,
+   "flavio": 13.7,
+   "n": 1745
+  },
+  "terceira_via": {
+   "flavio": 82.7,
+   "lula": 17.3,
+   "n": 306
+  },
+  "nenhum": {
+   "flavio": 69.1,
+   "lula": 30.1,
+   "branco_nulo": 0.8,
+   "n": 123
+  }
+ },
+ "minutos": 9.3
+}

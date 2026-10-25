@@ -1,0 +1,665 @@
+{
+ "t2": {
+  "lula": 0.5555555555555556,
+  "flavio": 0.4444444444444444
+ },
+ "serie": [
+  {
+   "dia": 0,
+   "lula": 0.373,
+   "flavio": 0.3592,
+   "caiado": 0.0501,
+   "renan": 0.0363,
+   "zema": 0.02,
+   "cury": 0.0563,
+   "outros": 0.0138,
+   "branco_nulo": 0.0,
+   "indeciso": 0.0914
+  },
+  {
+   "dia": 1,
+   "lula": 0.373,
+   "flavio": 0.3592,
+   "caiado": 0.0501,
+   "renan": 0.0363,
+   "zema": 0.02,
+   "cury": 0.0563,
+   "outros": 0.0138,
+   "branco_nulo": 0.0,
+   "indeciso": 0.0914
+  },
+  {
+   "dia": 2,
+   "lula": 0.373,
+   "flavio": 0.3592,
+   "caiado": 0.0501,
+   "renan": 0.0363,
+   "zema": 0.02,
+   "cury": 0.0563,
+   "outros": 0.0138,
+   "branco_nulo": 0.0,
+   "indeciso": 0.0914
+  },
+  {
+   "dia": 3,
+   "lula": 0.3392,
+   "flavio": 0.3204,
+   "caiado": 0.0388,
+   "renan": 0.0288,
+   "zema": 0.0188,
+   "cury": 0.0438,
+   "outros": 0.0025,
+   "branco_nulo": 0.0175,
+   "indeciso": 0.1902
+  },
+  {
+   "dia": 4,
+   "lula": 0.3392,
+   "flavio": 0.3204,
+   "caiado": 0.0388,
+   "renan": 0.0288,
+   "zema": 0.0188,
+   "cury": 0.0438,
+   "outros": 0.0025,
+   "branco_nulo": 0.0175,
+   "indeciso": 0.1902
+  },
+  {
+   "dia": 5,
+   "lula": 0.3392,
+   "flavio": 0.3204,
+   "caiado": 0.0388,
+   "renan": 0.0288,
+   "zema": 0.0188,
+   "cury": 0.0438,
+   "outros": 0.0025,
+   "branco_nulo": 0.0175,
+   "indeciso": 0.1902
+  },
+  {
+   "dia": 6,
+   "lula": 0.3329,
+   "flavio": 0.2766,
+   "caiado": 0.035,
+   "renan": 0.0275,
+   "zema": 0.0175,
+   "cury": 0.0413,
+   "outros": 0.0013,
+   "branco_nulo": 0.0388,
+   "indeciso": 0.229
+  },
+  {
+   "dia": 7,
+   "lula": 0.3329,
+   "flavio": 0.2766,
+   "caiado": 0.035,
+   "renan": 0.0275,
+   "zema": 0.0175,
+   "cury": 0.0413,
+   "outros": 0.0013,
+   "branco_nulo": 0.0388,
+   "indeciso": 0.229
+  },
+  {
+   "dia": 8,
+   "lula": 0.3329,
+   "flavio": 0.2766,
+   "caiado": 0.035,
+   "renan": 0.0275,
+   "zema": 0.0175,
+   "cury": 0.0413,
+   "outros": 0.0013,
+   "branco_nulo": 0.0388,
+   "indeciso": 0.229
+  },
+  {
+   "dia": 9,
+   "lula": 0.3667,
+   "flavio": 0.2616,
+   "caiado": 0.0313,
+   "renan": 0.0288,
+   "zema": 0.015,
+   "cury": 0.0401,
+   "outros": 0.0025,
+   "branco_nulo": 0.0551,
+   "indeciso": 0.199
+  },
+  {
+   "dia": 10,
+   "lula": 0.3667,
+   "flavio": 0.2616,
+   "caiado": 0.0313,
+   "renan": 0.0288,
+   "zema": 0.015,
+   "cury": 0.0401,
+   "outros": 0.0025,
+   "branco_nulo": 0.0551,
+   "indeciso": 0.199
+  },
+  {
+   "dia": 11,
+   "lula": 0.3667,
+   "flavio": 0.2616,
+   "caiado": 0.0313,
+   "renan": 0.0288,
+   "zema": 0.015,
+   "cury": 0.0401,
+   "outros": 0.0025,
+   "branco_nulo": 0.0551,
+   "indeciso": 0.199
+  },
+  {
+   "dia": 12,
+   "lula": 0.398,
+   "flavio": 0.2691,
+   "caiado": 0.0325,
+   "renan": 0.0288,
+   "zema": 0.0213,
+   "cury": 0.0388,
+   "outros": 0.0013,
+   "branco_nulo": 0.0588,
+   "indeciso": 0.1514
+  },
+  {
+   "dia": 13,
+   "lula": 0.398,
+   "flavio": 0.2691,
+   "caiado": 0.0325,
+   "renan": 0.0288,
+   "zema": 0.0213,
+   "cury": 0.0388,
+   "outros": 0.0013,
+   "branco_nulo": 0.0588,
+   "indeciso": 0.1514
+  },
+  {
+   "dia": 14,
+   "lula": 0.398,
+   "flavio": 0.2691,
+   "caiado": 0.0325,
+   "renan": 0.0288,
+   "zema": 0.0213,
+   "cury": 0.0388,
+   "outros": 0.0013,
+   "branco_nulo": 0.0588,
+   "indeciso": 0.1514
+  },
+  {
+   "dia": 15,
+   "lula": 0.4205,
+   "flavio": 0.2816,
+   "caiado": 0.0313,
+   "renan": 0.0263,
+   "zema": 0.0238,
+   "cury": 0.0363,
+   "outros": 0.0025,
+   "branco_nulo": 0.0751,
+   "indeciso": 0.1026
+  },
+  {
+   "dia": 16,
+   "lula": 0.4443,
+   "flavio": 0.2716,
+   "caiado": 0.0275,
+   "renan": 0.0313,
+   "zema": 0.0275,
+   "cury": 0.0388,
+   "outros": 0.0038,
+   "branco_nulo": 0.0851,
+   "indeciso": 0.0701
+  },
+  {
+   "dia": 17,
+   "lula": 0.4443,
+   "flavio": 0.2716,
+   "caiado": 0.0275,
+   "renan": 0.0313,
+   "zema": 0.0275,
+   "cury": 0.0388,
+   "outros": 0.0038,
+   "branco_nulo": 0.0851,
+   "indeciso": 0.0701
+  },
+  {
+   "dia": 18,
+   "lula": 0.4531,
+   "flavio": 0.2653,
+   "caiado": 0.0275,
+   "renan": 0.0313,
+   "zema": 0.025,
+   "cury": 0.0401,
+   "outros": 0.0,
+   "branco_nulo": 0.0788,
+   "indeciso": 0.0788
+  },
+  {
+   "dia": 19,
+   "lula": 0.4531,
+   "flavio": 0.2653,
+   "caiado": 0.0275,
+   "renan": 0.0313,
+   "zema": 0.025,
+   "cury": 0.0401,
+   "outros": 0.0,
+   "branco_nulo": 0.0788,
+   "indeciso": 0.0788
+  },
+  {
+   "dia": 20,
+   "lula": 0.4531,
+   "flavio": 0.2653,
+   "caiado": 0.0275,
+   "renan": 0.0313,
+   "zema": 0.025,
+   "cury": 0.0401,
+   "outros": 0.0,
+   "branco_nulo": 0.0788,
+   "indeciso": 0.0788
+  },
+  {
+   "dia": 21,
+   "lula": 0.4543,
+   "flavio": 0.2653,
+   "caiado": 0.0275,
+   "renan": 0.0313,
+   "zema": 0.025,
+   "cury": 0.0388,
+   "outros": 0.0013,
+   "branco_nulo": 0.0801,
+   "indeciso": 0.0763
+  },
+  {
+   "dia": 22,
+   "lula": 0.4543,
+   "flavio": 0.2653,
+   "caiado": 0.0275,
+   "renan": 0.0313,
+   "zema": 0.025,
+   "cury": 0.0388,
+   "outros": 0.0013,
+   "branco_nulo": 0.0801,
+   "indeciso": 0.0763
+  },
+  {
+   "dia": 23,
+   "lula": 0.4543,
+   "flavio": 0.2653,
+   "caiado": 0.0275,
+   "renan": 0.0313,
+   "zema": 0.025,
+   "cury": 0.0388,
+   "outros": 0.0013,
+   "branco_nulo": 0.0801,
+   "indeciso": 0.0763
+  },
+  {
+   "dia": 24,
+   "lula": 0.4531,
+   "flavio": 0.2641,
+   "caiado": 0.0275,
+   "renan": 0.0313,
+   "zema": 0.025,
+   "cury": 0.0388,
+   "outros": 0.0013,
+   "branco_nulo": 0.0801,
+   "indeciso": 0.0788
+  },
+  {
+   "dia": 25,
+   "lula": 0.4531,
+   "flavio": 0.2641,
+   "caiado": 0.0275,
+   "renan": 0.0313,
+   "zema": 0.025,
+   "cury": 0.0388,
+   "outros": 0.0013,
+   "branco_nulo": 0.0801,
+   "indeciso": 0.0788
+  },
+  {
+   "dia": 26,
+   "lula": 0.4531,
+   "flavio": 0.2641,
+   "caiado": 0.0275,
+   "renan": 0.0313,
+   "zema": 0.025,
+   "cury": 0.0388,
+   "outros": 0.0013,
+   "branco_nulo": 0.0801,
+   "indeciso": 0.0788
+  },
+  {
+   "dia": 27,
+   "lula": 0.4518,
+   "flavio": 0.2628,
+   "caiado": 0.0288,
+   "renan": 0.0313,
+   "zema": 0.025,
+   "cury": 0.0388,
+   "outros": 0.0013,
+   "branco_nulo": 0.0801,
+   "indeciso": 0.0801
+  },
+  {
+   "dia": 28,
+   "lula": 0.4518,
+   "flavio": 0.2628,
+   "caiado": 0.0288,
+   "renan": 0.0313,
+   "zema": 0.025,
+   "cury": 0.0388,
+   "outros": 0.0013,
+   "branco_nulo": 0.0801,
+   "indeciso": 0.0801
+  },
+  {
+   "dia": 29,
+   "lula": 0.4518,
+   "flavio": 0.2628,
+   "caiado": 0.0288,
+   "renan": 0.0313,
+   "zema": 0.025,
+   "cury": 0.0388,
+   "outros": 0.0013,
+   "branco_nulo": 0.0801,
+   "indeciso": 0.0801
+  },
+  {
+   "dia": 30,
+   "lula": 0.4531,
+   "flavio": 0.2616,
+   "caiado": 0.0288,
+   "renan": 0.03,
+   "zema": 0.025,
+   "cury": 0.0375,
+   "outros": 0.0013,
+   "branco_nulo": 0.0839,
+   "indeciso": 0.0788
+  },
+  {
+   "dia": 31,
+   "lula": 0.4531,
+   "flavio": 0.2616,
+   "caiado": 0.0288,
+   "renan": 0.03,
+   "zema": 0.025,
+   "cury": 0.0375,
+   "outros": 0.0013,
+   "branco_nulo": 0.0839,
+   "indeciso": 0.0788
+  },
+  {
+   "dia": 32,
+   "lula": 0.4531,
+   "flavio": 0.2616,
+   "caiado": 0.0288,
+   "renan": 0.03,
+   "zema": 0.025,
+   "cury": 0.0375,
+   "outros": 0.0013,
+   "branco_nulo": 0.0839,
+   "indeciso": 0.0788
+  },
+  {
+   "dia": 33,
+   "lula": 0.4556,
+   "flavio": 0.2628,
+   "caiado": 0.03,
+   "renan": 0.0313,
+   "zema": 0.0238,
+   "cury": 0.0375,
+   "outros": 0.0013,
+   "branco_nulo": 0.0814,
+   "indeciso": 0.0763
+  },
+  {
+   "dia": 34,
+   "lula": 0.4556,
+   "flavio": 0.2628,
+   "caiado": 0.03,
+   "renan": 0.0313,
+   "zema": 0.0238,
+   "cury": 0.0375,
+   "outros": 0.0013,
+   "branco_nulo": 0.0814,
+   "indeciso": 0.0763
+  },
+  {
+   "dia": 35,
+   "lula": 0.4556,
+   "flavio": 0.2628,
+   "caiado": 0.03,
+   "renan": 0.0313,
+   "zema": 0.0238,
+   "cury": 0.0375,
+   "outros": 0.0013,
+   "branco_nulo": 0.0814,
+   "indeciso": 0.0763
+  },
+  {
+   "dia": 36,
+   "lula": 0.4593,
+   "flavio": 0.2628,
+   "caiado": 0.0288,
+   "renan": 0.0313,
+   "zema": 0.0238,
+   "cury": 0.0363,
+   "outros": 0.0013,
+   "branco_nulo": 0.0814,
+   "indeciso": 0.0751
+  },
+  {
+   "dia": 37,
+   "lula": 0.4618,
+   "flavio": 0.2653,
+   "caiado": 0.03,
+   "renan": 0.0325,
+   "zema": 0.0238,
+   "cury": 0.0338,
+   "outros": 0.0013,
+   "branco_nulo": 0.0814,
+   "indeciso": 0.0701
+  }
+ ],
+ "citacoes": [
+  {
+   "dia": 1,
+   "tipo": "conversa",
+   "fala": "Nossa, a campanha já tá pegando fogo na Baixada, hein? Fala sério, todo mundo aqui no trabalho comentando o tempo todo. / Joia, aqui em Jundiaí também tá quente. Mas eu to mais tranquilo, tô torcendo pra Flávio continuar o trabalho do pai, sabe?"
+  },
+  {
+   "dia": 2,
+   "tipo": "conversa",
+   "fala": "Oxente, Marcia! Hoje cedo o céu abriu aqui no sertão, promete chuvinha boa pra roça. Mas olha, a campanha tava mansa, de repente esquentou não é? / Exato, Neusa. Aqui em Feira tbm tá quente. Vi o pessoal da rua comentando, muita gente ainda indecisa. E voce? Ja pensou em quem vai votar?"
+  },
+  {
+   "dia": 3,
+   "tipo": "conversa",
+   "fala": "Oi, tudo bem? Vi que a campanha esquentou de novo, parece que todo mundo tá falando disso aqui no bairro. / Olá! Sim, andei ouvindo muita gente comentando no mercado. Oxente, a política tá mesmo complicada, não é? Mas a vida continua, tem que trabalhar pra frente."
+  },
+  {
+   "dia": 4,
+   "tipo": "conversa",
+   "fala": "Oi, tudo bem? Vi que a campanha tá pegando fogo, hein? A gente conversa sobre isso no trabalho, mas cada um tem sua opinião. / É, a coisa ficou pesada. Eu tava conversando com a Ivone ontem e ela tava dizendo que o voto ainda pode mudar até o último minuto. O que voce acha?"
+  },
+  {
+   "dia": 5,
+   "tipo": "conversa",
+   "fala": "Oi, tudo bem? Vi que a campanha tá ficando quente por aqui, todo mundo comentando no trabalho. / Oi! Sim, começou mesmo. A gente conversa sobre o custo de vida aqui em casa, tá difícil pra todo mundo."
+  },
+  {
+   "dia": 6,
+   "tipo": "conversa",
+   "fala": "Oi, tudo bem? Vi que a campanha começou a esquentar, todo mundo comentando nas redes, né? Aí lembrei da nossa conversa anterior sobre o SUS. / Uai, meu filho... A campanha ficando pesado não é? Mas a gente tem que cuidar da saúde e do bolso, que tá caro tudo. O importante é ter paz em casa."
+  },
+  {
+   "dia": 7,
+   "tipo": "conversa",
+   "fala": "Uai, Marcelo, esse fim de semana o churrasco saiu caro pra caramba, hein? Carne tá sem graça... / Tá, Francisco. Eu tô trabalhando mais pra manter as coisas, mas pelo menos as crianças não reclamam mais de escola..."
+  },
+  {
+   "dia": 8,
+   "tipo": "conversa",
+   "fala": "Bah, Ana, e aí? Como tá a loja por Cascavel? Aqui em Passo Fundo a vida tá difícil também, com tudo carisssimo, tchê. / Ah, Francisco, tá complicado mesmo. A gente só faz oração e tenta segurar, né? Mas falar nisso, você já decidiu como vai votar?"
+  },
+  {
+   "dia": 9,
+   "tipo": "conversa",
+   "fala": "Oxente, filha, o calor tá insuportável aqui no sítio. Só Deus pra aguentar esse sol de maio, não é mesmo? / Rapaz, a água do rio tá baixando demais. O pessoal da pesca tá reclamando, mas a rede ainda segura."
+  },
+  {
+   "dia": 10,
+   "tipo": "conversa",
+   "fala": "Filho, o tanque d'água da casa tava vazando de novo, tive que chamar um encanador aqui de manhã. Tava com medo que estragasse o piso da cozinha de novo. / Nossa, que chato! Aqui em casa tbm tá difícil. O preço do arroz e do feijão subiu tanto que meu pai quase quase quase quase quase quase desistiu de fazer o jantar ontem."
+  },
+  {
+   "dia": 11,
+   "tipo": "conversa",
+   "fala": "Fulano, você já viu o último debate? Acho que o Flávio ficou devendo respostas sobre a saúde aqui no Nordeste. / Oxente, debate é sempre a mesma coisa, mas o que me deixa quieto é o preço do feijão que subiu de novo. Parece que o governo tá tentando segurar, mas a conta não fecha."
+  },
+  {
+   "dia": 12,
+   "tipo": "conversa",
+   "fala": "Bah, Elaine, essa gasolina tá nos matando, né? E esse açúcar... tá impossível comprar. Tu acha que isso vai melhorar? / Ah, minha filha, a gente reza pra Deus abrir os caminhos. O Flávio tá tentando, mas tudo isso pesa mesmo."
+  },
+  {
+   "dia": 13,
+   "tipo": "conversa",
+   "fala": "Oi Edson, beleza? Vi que a campanha esquenta, tava pensando no dia a dia aqui em casa, o preço do arroz tá muito alto ainda. / Oi Gabriela, tudo? Rapaz, essa eleição já é um barraco, mas o que eu quero é ver o preço do combustível baixar, porque o frete tá caro demais."
+  },
+  {
+   "dia": 14,
+   "tipo": "conversa",
+   "fala": "Oi, Karine, tudo bem? Tá difícil pra todo mundo, né? Aqui em casa tá apertado mesmo... / Ah, você nem imagina, Vanessa... A gente tá correndo pra manter o básico, meu. Até as aulas particulares caíram."
+  },
+  {
+   "dia": 15,
+   "tipo": "conversa",
+   "fala": "Oi, Raimundo, tudo bem? Vi que você também está pensado no voto, não é? A campanha tá uma bagunça, gente discutindo demais na rua. / Oi, Marcos. Tudo quieto por aqui. Jardim está lindo, mas a política... gente tem opinião forte, não é mesmo? Vou dar uma olhada no que cada um propõe."
+  },
+  {
+   "dia": 16,
+   "tipo": "conversa",
+   "fala": "Roberto, você viu o preço do feijão aqui em Caucaia? Tá absurdo, parece que o mês não acaba mais, né? / Rapaz, você também sentiu isso no RN? Aqui o preço da gasolina subiu muito, mas a gente tenta se segurar pra não deixar a conta ficar feia."
+  },
+  {
+   "dia": 17,
+   "tipo": "conversa",
+   "fala": "Nossa, Gustavo, esse preço de feijão aqui em Jundiaí tá absurdo. Tava conversando com o Roberto ontem e ele disse que a comida continua cara, nem a economia melhora pra gente no dia a dia. / Tá certo, mano. Aqui em Mogi Mirim tbm tá difícil. Mas pelo menos o Flávio entende quem trabalha duro. O Lula, pra mim, continua sendo risco demais pra família."
+  },
+  {
+   "dia": 18,
+   "tipo": "conversa",
+   "fala": "Regina, passa mais uma promoção de toalhas aqui em casa, a cliente disse que o preço tá caro mas a qualidade é boa, tô precisando vender mais pra juntar o troco do mês. / Ah, Simone, eu tô sentindo o dia a dia muito pesado, o mercado do meu filho tá caro e a merenda da escola tava atrasada, mas pelo menos o Lula tem essa preocupação com o povo, diferente daquele governo passado."
+  },
+  {
+   "dia": 19,
+   "tipo": "conversa",
+   "fala": "Minha neta tá reclamando que o ônibus tá caro pra ir na faculdade, falou que vai ter que parar se continuar assim. / Sinto muito, amiga. Aqui a gasolina também não para de subir. Eu quase desisti de levar o filho no médico ontem."
+  },
+  {
+   "dia": 20,
+   "tipo": "conversa",
+   "fala": "Bah, já tá frio demais aqui na Alvorada. E a conta de luz... tá dando pra segurar? / Ah, aqui também tá difícil. Mas a gente vai se virando. E aí, já decidiu no que vai votar?"
+  },
+  {
+   "dia": 21,
+   "tipo": "conversa",
+   "fala": "Oi, Marcia! Tudo bem? Vi que você voltou a falar sobre a eleição, está ansiosa? / Oi! Tudo sim, aqui na roça está agitado. Acabei de terminar de ajudar o pai aregar o milho. E você, Márcia, já decidiu quem vai votar?"
+  },
+  {
+   "dia": 22,
+   "tipo": "conversa",
+   "fala": "Oxente, mermã, aqui em Caucaia tá tudo tão caro que parece que mês não acaba mais, hein? / É verdade, Marcia. Aqui em Feira de Santana o gás subiu de novo. Tá difícil pra caramba, mas pelo menos o Lula ainda lembra da gente que luta, não é?"
+  },
+  {
+   "dia": 23,
+   "tipo": "conversa",
+   "fala": "Meu filho, tá difícil, né? A comida tá cara e o salário não sobra. Mas ainda acredito que o Lula vai mudar isso, mesmo com a vida dura. / Glória a Deus, minha filha, eu sei como é. O Flávio defende os nossos valores, mas a economia me deixa insegura. Vou orar e conversar com a família antes de decidir."
+  },
+  {
+   "dia": 24,
+   "tipo": "conversa",
+   "fala": "Oxente, meu filho, tava olhando o preço do feijão aqui e tá quase impossível. A vida tá difícil mesmo aqui na Paraíba. / Meu irmão, a vida continua pesada nas ruas, mas a gente se vira. O importante é ter saúde pra trabalhar cada dia."
+  },
+  {
+   "dia": 25,
+   "tipo": "conversa",
+   "fala": "Oi, Marcia. Tudo bem? Vi que você conversou com o Paulo dia 21, o que ele falou sobre a comida? / Oxente, meu filho, ele disse que ainda acha que Lula fez mais por gente do campo, mas a comida cara tá deixando ele com raiva também. Ele vai levar na oração."
+  },
+  {
+   "dia": 26,
+   "tipo": "conversa",
+   "fala": "Pô, tô ficando louco com o preço da carne, né? Já tá mais barata a gasolina, mas a comida ainda tá me matando. / Sabe? Eu sei como é... Mas o Lula pelo menos me deu o auxílio-gás, tô podendo fazer a comida pra casa."
+  },
+  {
+   "dia": 27,
+   "tipo": "conversa",
+   "fala": "Meu senhor, tá difícil demais nessa vida, né? A comida tá cada vez mais cara, e o dinheiro não chega no final do mês. / Ah, filha, eu entendo bem... O que a gente faz é rezar e confiar em Deus, né? Ele sabe o que é melhor pra nós."
+  },
+  {
+   "dia": 28,
+   "tipo": "conversa",
+   "fala": "Claudia ligou pra saber como anda o serviço. Falei que está um caos, material subiu muito, cliente pediu pra adiar orçamento, mas enfim, o dia a dia tem que seguir, não? / Oxente, Aline? Aqui também tá caro. O cliente pediu pra parcelar em 3x, mas o preço do tecido subiu tanto que quase não dá lucro não. Tô pensando em fechar a lojinha semana que vem, deixa pra ver se melhora."
+  },
+  {
+   "dia": 29,
+   "tipo": "conversa",
+   "fala": "Oi, Fernanda! Tava pensando no preço do feijão que tava subindo de novo, heim? Aqui em Santa Rita tô sentindo no bolso, o feijão tá pesado ainda. / Você já viu como tá o preço da gasolina por lá? Aqui tô guardando todo centavo pra tentar segurar o orçamento de casa."
+  },
+  {
+   "dia": 30,
+   "tipo": "conversa",
+   "fala": "Mãe, não esquece de comprar aquele queijo minas que o Sebastião pediu, que está caro mas não tem jeito. / Oxente, mãe! Mas já te falei, se o preço da comida não baixar eu tô sem jeito não, tô tentando juntar o trocado pra contar pra casa."
+  },
+  {
+   "dia": 31,
+   "tipo": "conversa",
+   "fala": "Meu filho, graças a Deus, aqui em Feira o dia tá lindo, mas a comida tá cara mesmo. Como vai a vida de estudante por aí? / Oxente, mermã, aqui tô ótima! O curso de informática tá ajudando muito, mas a gasolina e o mercado estão caros. E você, como anda o tempo na Bahia?"
+  },
+  {
+   "dia": 32,
+   "tipo": "conversa",
+   "fala": "Oi, beleza? Tava tentando organizar o quintão de casa, mas o sol tava forte demais. Tava pensando em ir ao mercado comprar uns temperos, mas tô com preguiça de enfrentar o trânsito da cidade hoje. / Rapax, vida de comerciante não tem pausa não. Estava aqui vendo o estoque de cimento, tava atrasado. O cliente pediu pra ontem, tem que ir buscar antes que acabe. O dia tá corrido pra caramba."
+  },
+  {
+   "dia": 33,
+   "tipo": "conversa",
+   "fala": "Oxente, o preço do feijão aqui subiu demais, tava olhando a cesta básica e tô quase desistindo de comprar, mas pelo menos a chuva bateu certo no milho dessa vez. / Tá difícil mesmo, mas aqui na mercearia a movimentação tem sido boa, as pessoas estão saindo mais. Pelo menos a renda tem ajudado um pouco no mês."
+  },
+  {
+   "dia": 34,
+   "tipo": "conversa",
+   "fala": "Meu bem, como vai a sua semana? Aqui em Feira tá um calor seco, mas a horta tá dando certo. / Oxente, aqui em Santa Rita tá um sufoco! O custo de vida tá me matando, mas pelo menos o auxílio do Lula tô de olho pra ajudar no final de mês."
+  },
+  {
+   "dia": 35,
+   "tipo": "conversa",
+   "fala": "Meu irmão, hoje cedo conseguiu uns peixes bons, graças a Deus. E aí, como tá a construção aí? / Oxente, Marcelo, tá difícil, mas a gente vai indo. A conta no final do mês ainda pesa, mas graças a Deus ainda tem trabalho."
+  },
+  {
+   "dia": 36,
+   "tipo": "conversa",
+   "fala": "Bom dia! Vi que o mercado está ainda mais caro hoje, hein? Aqui em Campo Mourão o quilo de arroz já está assustando. / Manhã boa. Olha, tô aqui no centro de distribuicao e o galera reclamando muito do preço do feijao. Tava conversando com o chefe ontem."
+  },
+  {
+   "dia": 37,
+   "tipo": "conversa",
+   "fala": "Marcelo, você viu o último boletim do IBGE? Preço do feijão subindo de novo, está difícil pra caramba. / Edson também reclamou disso aqui no prédio, disse que o orçamento doméstico está no limite todo mês."
+  }
+ ],
+ "motivos": [
+  "Tá difícil mesmo, mas não vejo outra saída senão votar de novo, pra tentar segurar o que ainda tem.",
+  "Olha, minha filha, ainda acho que o Lula é quem mais lembra da gente, mesmo a comida tão cara. Acho que vou segurar nessa esperança, porque ",
+  "Bah, depois de ouvir todo mundo, vejo que o que mais me preocupa é o preço da comida subindo e o emprego que não aparece. Nenhum dos dois na",
+  "Oxente, mesmo com a comida cara e tanta insegurança, acho que não tem outro caminho. O Lula pelo menos sabe a dificuldade do Nordeste, e os ",
+  "Meu irmão, depois de tudo que passei ainda vejo no Lula quem esteve conosco quando o mundo virou de cabeça para baixo. Não é perfeição, é fi",
+  "Tá pesado, mas Flávio ainda entende a gente aqui no Sul, mesmo com tudo difícil. Vou ficar com ele mesmo, tchê.",
+  "Tô firme no Lula, cara. Mesmo com a comida pesando e o clima tenso, vejo que ele tá cuidando do básico: meu filho tá na escola, a oficinaell",
+  "Ainda vejo Flavio Bolsonaro como uma opção de estabilidade, mas a dificuldade para colocar comida na mesa e a incerteza sobre o futuro dos m",
+  "Tá difícil, mas a economia ainda é o que mais pesa no meu bolso. Flávio pelo menos não vem com promessa vazia, e se aparecer alguém com um p",
+  "Tá difícil, mas ainda acho que o Lula é a opção menos pior. A gente precisa de estabilidade, mesmo com a vida cara e essa porcaria de polari",
+  "Ninguém tá me convencendo. O Lula prometeu mais do que cumpriu e o Flávio ainda tá com muita confusão. Acho que vou marcar branco mesmo, por",
+  "Meu bem, ainda tá difícil, mas o Lula pelo menos segue tentando me ajudar."
+ ]
+}

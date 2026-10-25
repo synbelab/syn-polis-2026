@@ -1,0 +1,267 @@
+{
+ "t2": {
+  "flavio": 0.5175097276264592,
+  "lula": 0.48249027237354086
+ },
+ "serie": [
+  {
+   "dia": 0,
+   "flavio": 0.4593,
+   "lula": 0.4255,
+   "branco_nulo": 0.0,
+   "indeciso": 0.1151
+  },
+  {
+   "dia": 1,
+   "flavio": 0.4593,
+   "lula": 0.4255,
+   "branco_nulo": 0.0,
+   "indeciso": 0.1151
+  },
+  {
+   "dia": 2,
+   "flavio": 0.4593,
+   "lula": 0.4255,
+   "branco_nulo": 0.0,
+   "indeciso": 0.1151
+  },
+  {
+   "dia": 3,
+   "flavio": 0.4643,
+   "lula": 0.4255,
+   "branco_nulo": 0.0038,
+   "indeciso": 0.1064
+  },
+  {
+   "dia": 4,
+   "flavio": 0.4643,
+   "lula": 0.4255,
+   "branco_nulo": 0.0038,
+   "indeciso": 0.1064
+  },
+  {
+   "dia": 5,
+   "flavio": 0.4643,
+   "lula": 0.4255,
+   "branco_nulo": 0.0038,
+   "indeciso": 0.1064
+  },
+  {
+   "dia": 6,
+   "flavio": 0.4806,
+   "lula": 0.4218,
+   "branco_nulo": 0.0025,
+   "indeciso": 0.0951
+  },
+  {
+   "dia": 7,
+   "flavio": 0.4806,
+   "lula": 0.4218,
+   "branco_nulo": 0.0025,
+   "indeciso": 0.0951
+  },
+  {
+   "dia": 8,
+   "flavio": 0.4806,
+   "lula": 0.4218,
+   "branco_nulo": 0.0025,
+   "indeciso": 0.0951
+  },
+  {
+   "dia": 9,
+   "flavio": 0.5031,
+   "lula": 0.4406,
+   "branco_nulo": 0.0013,
+   "indeciso": 0.0551
+  },
+  {
+   "dia": 10,
+   "flavio": 0.5031,
+   "lula": 0.4406,
+   "branco_nulo": 0.0013,
+   "indeciso": 0.0551
+  },
+  {
+   "dia": 11,
+   "flavio": 0.5031,
+   "lula": 0.4406,
+   "branco_nulo": 0.0013,
+   "indeciso": 0.0551
+  },
+  {
+   "dia": 12,
+   "flavio": 0.5131,
+   "lula": 0.4606,
+   "branco_nulo": 0.0013,
+   "indeciso": 0.025
+  },
+  {
+   "dia": 13,
+   "flavio": 0.5181,
+   "lula": 0.4706,
+   "branco_nulo": 0.0025,
+   "indeciso": 0.0088
+  }
+ ],
+ "citacoes": [
+  {
+   "dia": 1,
+   "tipo": "evento",
+   "fala": "Acho que o MDB apoiando o Flavio é mais um sinal de que o pessoal do centro tá vindo pra ele, né? Tô ainda na minha, mas isso me deixa mais tranquila de manter o voto no 2o turno."
+  },
+  {
+   "dia": 1,
+   "tipo": "evento",
+   "fala": "Meu irmão, esse apoio do MDB e dos governadores pesa, tá vendo? Flavio tá ganhando força no palanque, e eu tô mais inclinado a votar nele no segundo turno — segurança, impostos baixos e essa história de judiciário me pegam no pé."
+  },
+  {
+   "dia": 1,
+   "tipo": "conversa",
+   "fala": "Maria, acabou o serviço aqui em casa? Vi que o Flavio disparou na pesquisa e tem governadores apoiando. Que alívio, né? / Nossa, já acabou? Aqui em casa ainda falta passar pano na sala. Sobre a eleição, vi que Flavio lidera, mas fico na dúvida, tipo assim..."
+  },
+  {
+   "dia": 2,
+   "tipo": "evento",
+   "fala": "Uai, esse trem da escala 6x1 é bom demais, quem trabalha sabe que a gente fica cansado demais, isso aí me agrada"
+  },
+  {
+   "dia": 2,
+   "tipo": "evento",
+   "fala": "Lula tá falando sério sobre a escala 6x1, e isso me toca demais, porque eu trabalho dia sim, dia não, e sei como é pesado ficar tanto tempo sem descanso."
+  },
+  {
+   "dia": 2,
+   "tipo": "conversa",
+   "fala": "Oi Karine, beleza? Vi que o resultado do primeiro turno caiu: Flavio e Lula num segundo turno em 25/10. O Zema e o Caiado foram atrás dele, né? / Oi Thiago! Tava pensando nisso aí. Flavio ficou em 47%, Lula 45%. Aí esses governadores aí apoiaram o Flavio no segundo turno. Pra mim, não muda nada, voto nele de novo pra continuar com a economia funcionando."
+  },
+  {
+   "dia": 3,
+   "tipo": "evento",
+   "fala": "Lula tava falando direito da escala 6x1, e isso me pegou no peito, porque eu sei do que é trabalhar dia sim, dia não, sem descanso, e isso pra mim pesa mais que promessa vazia."
+  },
+  {
+   "dia": 3,
+   "tipo": "evento",
+   "fala": "Bah, assisti ao debate e vi que o Lula tava falando sério sobre a escala 6x1, isso me pegou no peito, porque meu filho trabalha comigo e a gente merece descansar direito... ainda tô inclinado pra ele, mas vou esperar o que Flavio vai dizer sobre o cimento e a obra parada, viu?"
+  },
+  {
+   "dia": 3,
+   "tipo": "conversa",
+   "fala": "Ai, tipo assim, Flavio tem o apoio de Caiado e Zema, fica aquela coisa de peso pesado junto, né? Eu tô olhando pra esse lance de escala 6x1 que ele tô trabalhando, se ele mexer nisso eu já voto nele de olhos fechados. / É, Flavio tá ficando forte com aquele apoio de governador. Mas eu tô focado no imposto, se ele baixar o imposto a oficina respira, se não, continua difícil. Discurso de imposto pesa mais que adesão política."
+  },
+  {
+   "dia": 4,
+   "tipo": "evento",
+   "fala": "Flavio falando em cortar imposto e reduzir maioridade penal? Isso sim toca no meu dia a dia: menos peso na folha e mais segurança pro meu guri andar na rua. Lula fala de folga, mas eu preciso é de comida na mesa e paz pro meu filho. Isso aqui reforça meu voto no Flavio."
+  },
+  {
+   "dia": 4,
+   "tipo": "evento",
+   "fala": "Meu irmão, Flavio tá falando a língua do trabalhador: menos imposto na folha e mais segurança pra quem ta na rua correndo — isso aqui pesa mais que qualquer promessa de acabar com a escala 6x1, que é o que nos mantém de pé. Tô firme no meu voto no segundo turno."
+  },
+  {
+   "dia": 4,
+   "tipo": "conversa",
+   "fala": "Oi, tudo bem? Vi que você também tá de olho no segundo turno. Flavio 47% contra Lula 45%, parece que vai ser acirrado em 25/10. / Oi, sim! Resultado do primeiro turno foi esse mesmo. Caiado, Zema e Cury já declararam apoio ao Flavio, mas o Lula tem segurado firme na escala 6x1, o que mexe com a gente."
+  },
+  {
+   "dia": 5,
+   "tipo": "conversa",
+   "fala": "Oi, Karine! Tava aqui vendo o resultado do primeiro turno, Flávio ficou em 47% e Lula em 45%, deve ser decisão difícil pra muita gente não é? / Oi, amiga! Eu que fico feliz em saber que o Flávio tem esse apoio dos governadores aqui do nosso estado, mostra que os valores da família ainda são fortes por aqui, uai."
+  },
+  {
+   "dia": 6,
+   "tipo": "evento",
+   "fala": "Lula falando sério da escala 6x1 me pegou no peito, porque eu vivo isso todo dia — trabalhar dia sim, dia não, sem descanso, é pesado demais. Se ele cumprir isso, pode melhorar muito a vida de gente como eu."
+  },
+  {
+   "dia": 6,
+   "tipo": "evento",
+   "fala": "Bah, ouvir o Lula falar sério da escala 6x1 no debate me pegou no peito, porque meu filho tá comigo na obra e a gente merece um descanso, então isso sim pesa no meu voto agora"
+  },
+  {
+   "dia": 6,
+   "tipo": "conversa",
+   "fala": "Oi, Fabio! Tudo bem? Como estão as coisas na oficina? Vi que você postou umas fotos de um motor novo aí no Facebook. / Opa, Vanessa! Tudo certo, graças a Deus. O serviço tá puxado, sabe? Tipo assim, a demanda tá boa, mas o custo de tudo subindo é que complica a vida da gente."
+  },
+  {
+   "dia": 7,
+   "tipo": "conversa",
+   "fala": "Nossa, que calor hoje, hein? Já tô exausta com o serviço, lavei três casas de manhã cedo e ainda falta o mercado pra fechar o dia. / Olha, eu também tô cansada, mas resolvi um cliente hoje. Fechei um apartamento na Vila Madalena, comissão boa! Agora é só aproveitar o final de tarde."
+  },
+  {
+   "dia": 8,
+   "tipo": "evento",
+   "fala": "Uai, desemprego baixando é bom, mas se a inflação tá corroendo o que eu ganho com bico e auxílio, nem adianta — Lula ainda é o que mais tá falando da escala 6x1, que é o que realmente me tira o sono."
+  },
+  {
+   "dia": 8,
+   "tipo": "evento",
+   "fala": "Desemprego baixou, mas inflação tá comendo o salário. Flavio fala de menos imposto e mais segurança — isso sim toca no meu bolso e no sono da minha família. Lula fala de folga, mas eu preciso é de comida na mesa e meu filho andando seguro na rua. Isso aí me confirma no voto dele."
+  },
+  {
+   "dia": 8,
+   "tipo": "conversa",
+   "fala": "Olha, meu filho, vi o resultado do 1o turno e Flavio vai pro 2o turno, mas eu fiquei de olho naquele negocio da escala 6x1 que o Lula falou. Se acabar, ajuda muito a rapaziada da minha loja. / Meu filho, se esse negocio de acabar com a escala 6x1 for mesmo verdade, vai ser uma bençao pra muita gente sofrida. Com fé em Deus, eu voto nele pra ver se esse descanso vira realidade."
+  },
+  {
+   "dia": 9,
+   "tipo": "conversa",
+   "fala": "Rapaz, vi o preço do arroz aqui na loja e subiu mais um pouco, minha senhora. O cliente está reclamando, mas eu não consigo repassar todo esse custo, senão fecho o estabelecimento. / Uai, sô, aqui em casa também a cesta básica tá mais cara. Minha mãe tá quase desistindo de fazer o bolo de aniversário do filho, o preço do ovo tá absurdo."
+  },
+  {
+   "dia": 10,
+   "tipo": "conversa",
+   "fala": "Caraca, acabei de ver o último debate. Flavio continua focado só em imposto, mas eu to sentindo que a história da escala 6x1 tá mexendo mais com a minha cabeça não, tipo assim? / Uai, sô, eu tô mais tranquila ainda. Com todo apoio dos governadores e a benção de Deus, a vitória do Flávio tá mais certa que nunca. A inflação tá chateando, mas a segurança vem em primeiro lugar pra mim."
+  },
+  {
+   "dia": 11,
+   "tipo": "evento",
+   "fala": "Meu irmão, vendo o debate hoje, o Flávio tava no pé do trabalhador, falando de menos imposto e mais segurança — isso aqui pesa mais que qualquer promessa de esquerda que não enche o prato, tô mais certo do que nunca que meu voto é nele de novo."
+  },
+  {
+   "dia": 11,
+   "tipo": "evento",
+   "fala": "Lula tava falando sério da escala 6x1, e isso me pegou no peito, porque eu vivo isso todo dia — trabalhar dia sim, dia não, sem descanso, é pesado demais. Se ele cumprir isso, pode melhorar muito a vida de gente como eu."
+  },
+  {
+   "dia": 11,
+   "tipo": "conversa",
+   "fala": "Rodrigo, acabou a escala 6x1? Falei pra mulher que se acabar isso aqui o dia a dia melhora, mas o Flávio tô torcendo pra ele, viu? Segurança e imposto baixo é que resolve pra gente ter pão. / Aí, Marcos, o Lula já disse que vai acabar. Ontem eu li que o desemprego caiu, mas o preço do gás subiu de novo. Esse fim de escala é a única coisa que me deixa esperançoso de ver meus filhos mais."
+  },
+  {
+   "dia": 12,
+   "tipo": "evento",
+   "fala": "Uai, esse negócio da escala 6x1 é o que me segura, o resto é só trem que passa na frente e não me pega, não muda meu voto não."
+  },
+  {
+   "dia": 12,
+   "tipo": "evento",
+   "fala": "Olha, meu filho, vendo essa guerra de vídeos e tantos falsos sendo tirados, me dá ainda mais certeza de que o Flávio é o caminho da verdade e da paz que a gente tanto precisa, graças a Deus."
+  },
+  {
+   "dia": 12,
+   "tipo": "conversa",
+   "fala": "Oi Fernanda, tudo bem? Vi que o debate foi acirrado, mas acho que o mais importante mesmo é garantir a estabilidade pra nossa saúde aqui em casa, né? Cortar imposto na folha é essencial pra gente que cuida da família. / Olha, vou te falar, eu tô mais pra Lula nessa história da escala 6x1. A gente precisa de mudança, e se o preço do feijão tá alto, discutir trabalho não resolve o bolso da gente no dia a dia."
+  },
+  {
+   "dia": 13,
+   "tipo": "conversa",
+   "fala": "Oi, Regina! Tudo bem? Vi que você confirmou voto no Flávio pra segundo turno, né? Segue firme com fé no coração. / Oi! Sim, tava pensando nisso aqui. O Flávio tem mesmo esse apoio do agro e parece mais certeiro pra nossa realidade aqui na roça."
+  }
+ ],
+ "motivos": [
+  "Oxente, rapaz… Lula tá falando do que a gente sofre na roça, e isso pesa mais que qualquer promessa de imposto baixo.",
+  "Se ele cumprir a promessa da escala 6x1, vai dar um alívio de verdade pra quem trabalha sem descanso como eu.",
+  "Bah, depois de ouvir o Lula falar sério da escala 6x1, vi que ele tá pensando no descanso do meu filho e meu, que trabalhamos demais na obra",
+  "Meu irmão, vendo que o Flávio tá falando direto no bolso do trabalhador — menos imposto, mais segurança — e o Lula insiste em tirar o que no",
+  "Lula tá falando do que realmente me afeta: fim da escala 6x1 e controle da inflação no bico, enquanto Flavio só repete receita antiga que nã",
+  "Olha, meu filho, confio que ele é o escolhido por Deus para proteger nossa família, nossa fé e trazer mais segurança para nós, graças a Deus",
+  "Oxente, meu irmão, Flávio defende minha fé e quer cortar imposto de quem trabalha duro, enquanto Lula é só conversa fiada.",
+  "A proposta de fim da escala 6x1 alinha-se à minha visão de dignidade no trabalho e qualidade de vida, mesmo com riscos fiscais que monitoro ",
+  "Confio no Flávio pra manter a ordem, baixar impostos e proteger a família, se Deus quiser.",
+  "Flavio vai baixar o imposto e tirar o peso do nosso bolso, isso eu senti na pele.",
+  "Porque o Lula falou do 6x1 e isso vai dar um alívio no meu cansaço de trabalhar sábado e pegar ônibus todo dia.",
+  "Vou votar no Lula por causa desse trem da escala 6x1, que é o que realmente importa pra quem trabalha, uai."
+ ]
+}
